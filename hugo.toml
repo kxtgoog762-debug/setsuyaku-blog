@@ -1,7 +1,9 @@
 baseURL = "https://setsuyaku-blog.pages.dev/"
 title = "節約ブログ - 賢くお金を貯めよう"
 languageCode = "ja"
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "管理人"
