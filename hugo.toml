@@ -1,0 +1,11 @@
+baseURL = "https://setsuyaku-blog.pages.dev/"
+title = "節約ブログ - 賢くお金を貯めよう"
+languageCode = "ja"
+paginate = 10
+
+[params]
+  author = "管理人"
+  description = "節約・家計管理・お金の知識を発信するブログ"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
