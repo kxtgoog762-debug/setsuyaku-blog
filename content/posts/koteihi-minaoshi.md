@@ -5,6 +5,11 @@ description: "節約は固定費の見直しから始めるのが最も効果的
 ShowToc: true
 TocOpen: false
 tags: ["固定費", "節約", "家計管理", "節約初心者"]
+cover:
+  image: /images/koteihi.png
+  alt: "貯金に成功した人のイラスト"
+  caption: "出典：いらすとや"
+  relative: false
 ---
 
 > ※本記事にはアフィリエイト広告が含まれています。

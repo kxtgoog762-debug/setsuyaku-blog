@@ -5,6 +5,11 @@ description: "楽天カードは節約家に最もおすすめのクレジット
 ShowToc: true
 TocOpen: false
 tags: ["楽天カード", "ポイント", "節約", "クレジットカード"]
+cover:
+  image: /images/rakuten-card.png
+  alt: "財布とクレジットカードのイラスト"
+  caption: "出典：いらすとや"
+  relative: false
 ---
 
 > ※本記事にはアフィリエイト広告が含まれています。

@@ -5,6 +5,11 @@ description: "大手キャリアから格安SIMに乗り換えるだけで月5,0
 ShowToc: true
 TocOpen: false
 tags: ["格安SIM", "節約", "スマホ代", "固定費削減"]
+cover:
+  image: /images/kakuyasu-sim.png
+  alt: "スマートフォンを使う女性のイラスト"
+  caption: "出典：いらすとや"
+  relative: false
 ---
 
 > ※本記事にはアフィリエイト広告が含まれています。

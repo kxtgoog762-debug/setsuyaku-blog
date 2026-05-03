@@ -5,6 +5,11 @@ description: "電気代の節約は今日からすぐできます。一人暮ら
 ShowToc: true
 TocOpen: false
 tags: ["電気代", "節約", "光熱費", "一人暮らし"]
+cover:
+  image: /images/denkidai.png
+  alt: "節電している人のイラスト"
+  caption: "出典：いらすとや"
+  relative: false
 ---
 
 > ※本記事にはアフィリエイト広告が含まれています。

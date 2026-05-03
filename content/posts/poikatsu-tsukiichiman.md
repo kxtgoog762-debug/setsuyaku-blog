@@ -5,6 +5,11 @@ description: "ポイ活とはポイントサイトを活用してポイントを
 ShowToc: true
 TocOpen: false
 tags: ["ポイ活", "節約", "副収入", "お小遣い稼ぎ"]
+cover:
+  image: /images/poikatsu.png
+  alt: "スタンプカードのイラスト"
+  caption: "出典：いらすとや"
+  relative: false
 ---
 
 > ※本記事にはアフィリエイト広告が含まれています。
