@@ -1,6 +1,7 @@
 baseURL = "https://setsuyaku-blog.pages.dev/"
 title = "節約ブログ - 賢くお金を貯めよう"
 languageCode = "ja"
+defaultTheme = "light"
 
 [pagination]
   pagerSize = 10
@@ -8,13 +9,50 @@ languageCode = "ja"
 [params]
   author = "管理人"
   description = "節約・家計管理・お金の知識を発信するブログ"
+  defaultTheme = "light"
+  disableThemeToggle = true
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  comments = false
 
-[params.analytics.google]
-  SiteVerificationTag = "28pq5v3ziJSuspT90fUYBo7xj8zUythUM2Zmr2amMeY"
+  [params.homeInfoParams]
+    Title = "💰 節約ブログへようこそ"
+    Content = """
+節約・ポイ活・家計管理に関する情報を発信しています。
+毎月の固定費を見直すだけで**年間数万円の節約**も夢じゃありません。
+初心者の方でもすぐ実践できる方法を丁寧に解説します。
+"""
+
+  [params.analytics.google]
+    SiteVerificationTag = "28pq5v3ziJSuspT90fUYBo7xj8zUythUM2Zmr2amMeY"
 
 [services]
   [services.googleAnalytics]
     ID = "G-JMT37ZQS9Y"
+
+[menu]
+  [[menu.main]]
+    name = "ホーム"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "記事一覧"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "節約術"
+    url = "/tags/節約/"
+    weight = 3
+  [[menu.main]]
+    name = "ポイ活・カード"
+    url = "/tags/ポイ活/"
+    weight = 4
+  [[menu.main]]
+    name = "家計管理"
+    url = "/tags/家計管理/"
+    weight = 5

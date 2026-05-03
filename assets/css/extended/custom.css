@@ -1,0 +1,272 @@
+/* ========================================
+   節約ブログ カスタムCSS
+   ======================================== */
+
+/* --- Google Fonts: Noto Sans JP --- */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap');
+
+/* --- ベースフォント・背景 --- */
+body {
+  font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+  font-size: 16px;
+  line-height: 1.85;
+  background-color: #f8f8f6;
+  color: #333333;
+}
+
+/* --- メインコンテンツ幅 --- */
+.main {
+  max-width: 780px;
+}
+
+/* --- ヘッダー --- */
+.header {
+  background-color: #ffffff;
+  border-bottom: 3px solid #2e8b57;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+}
+
+.logo a {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #2e8b57 !important;
+  letter-spacing: 0.02em;
+}
+
+/* --- ナビゲーション --- */
+#menu a {
+  font-size: 0.92rem;
+  font-weight: 500;
+  padding: 4px 10px;
+  border-radius: 4px;
+  color: #444 !important;
+  transition: background 0.2s, color 0.2s;
+}
+
+#menu a:hover {
+  background-color: #e8f5e9;
+  color: #2e8b57 !important;
+}
+
+/* --- トップページ ヒーロー --- */
+.home-info {
+  background: linear-gradient(135deg, #e8f5e9 0%, #f1f8e9 100%);
+  border: 1px solid #c8e6c9;
+  border-radius: 12px;
+  padding: 32px 36px;
+  margin-bottom: 32px;
+}
+
+.home-info .entry-header h1 {
+  font-size: 1.5rem;
+  color: #1b5e20;
+  margin-bottom: 12px;
+}
+
+.home-info .entry-content {
+  color: #444;
+  font-size: 0.97rem;
+}
+
+/* --- 記事カード (一覧) --- */
+.post-entry {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin-bottom: 18px;
+  transition: box-shadow 0.2s, transform 0.2s;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+.post-entry:hover {
+  box-shadow: 0 6px 18px rgba(46,139,87,0.13);
+  transform: translateY(-2px);
+}
+
+.post-entry .entry-header h2 {
+  font-size: 1.08rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  line-height: 1.55;
+}
+
+.post-entry .entry-content {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 6px;
+}
+
+/* --- 記事本文 --- */
+.post-single .post-content {
+  font-size: 1rem;
+  line-height: 1.9;
+}
+
+/* 見出し h2 */
+.post-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  border-left: 4px solid #2e8b57;
+  background-color: #f1f8f1;
+  padding: 10px 16px;
+  margin-top: 48px;
+  margin-bottom: 20px;
+  border-radius: 0 6px 6px 0;
+  color: #1a3a1a;
+}
+
+/* 見出し h3 */
+.post-content h3 {
+  font-size: 1.08rem;
+  font-weight: 700;
+  border-bottom: 2px solid #a5d6a7;
+  padding-bottom: 6px;
+  margin-top: 36px;
+  margin-bottom: 14px;
+  color: #2e4a2e;
+}
+
+/* --- 強調・太字 --- */
+.post-content strong {
+  color: #1b5e20;
+  font-weight: 700;
+}
+
+/* --- リンク --- */
+.post-content a {
+  color: #2e8b57;
+  text-decoration: underline;
+  text-decoration-color: #a5d6a7;
+  text-underline-offset: 3px;
+  transition: color 0.2s;
+}
+
+.post-content a:hover {
+  color: #1b5e20;
+  text-decoration-color: #2e8b57;
+}
+
+/* --- リスト --- */
+.post-content ul, .post-content ol {
+  padding-left: 1.5em;
+  margin: 14px 0;
+}
+
+.post-content li {
+  margin-bottom: 6px;
+}
+
+/* --- 目次 (TOC) --- */
+.toc {
+  background: #f9fbe7;
+  border: 1px solid #c5e1a5;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin: 28px 0;
+}
+
+.toc-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: #33691e;
+  margin-bottom: 8px;
+}
+
+#TableOfContents a {
+  color: #388e3c;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+#TableOfContents a:hover {
+  color: #1b5e20;
+  text-decoration: underline;
+}
+
+/* --- アフィリエイトリンク風の矢印付き --- */
+.post-content a[href*="a8.net"],
+.post-content a[href*="rakuten.co.jp"],
+.post-content a[href*="px.a8"] {
+  display: inline-block;
+  background-color: #2e8b57;
+  color: #fff !important;
+  text-decoration: none !important;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin: 6px 0;
+  transition: background 0.2s;
+}
+
+.post-content a[href*="a8.net"]:hover,
+.post-content a[href*="rakuten.co.jp"]:hover,
+.post-content a[href*="px.a8"]:hover {
+  background-color: #1b5e20;
+}
+
+/* --- タグ表示 --- */
+.post-tags a {
+  background: #e8f5e9;
+  color: #2e7d32;
+  border-radius: 20px;
+  padding: 3px 12px;
+  font-size: 0.8rem;
+  margin-right: 6px;
+  text-decoration: none;
+  border: 1px solid #a5d6a7;
+}
+
+.post-tags a:hover {
+  background: #2e8b57;
+  color: #fff;
+}
+
+/* --- パンくずリスト --- */
+.breadcrumbs {
+  font-size: 0.82rem;
+  color: #888;
+  margin-bottom: 12px;
+}
+
+/* --- フッター --- */
+.footer {
+  background-color: #2e4a2e;
+  color: #ccc;
+  font-size: 0.85rem;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer a {
+  color: #a5d6a7 !important;
+}
+
+/* --- 関連記事エリア --- */
+.post-content hr {
+  border: none;
+  border-top: 2px dashed #c8e6c9;
+  margin: 40px 0;
+}
+
+/* --- シェアボタン --- */
+.share-buttons {
+  margin-top: 32px;
+}
+
+/* --- レスポンシブ対応 --- */
+@media (max-width: 600px) {
+  body {
+    font-size: 15px;
+  }
+  .home-info {
+    padding: 20px;
+  }
+  .post-entry {
+    padding: 16px 18px;
+  }
+  .post-content h2 {
+    font-size: 1.1rem;
+  }
+}
