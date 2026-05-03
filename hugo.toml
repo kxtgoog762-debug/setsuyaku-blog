@@ -14,3 +14,7 @@ languageCode = "ja"
 
 [params.analytics.google]
   SiteVerificationTag = "28pq5v3ziJSuspT90fUYBo7xj8zUythUM2Zmr2amMeY"
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-JMT37ZQS9Y"
