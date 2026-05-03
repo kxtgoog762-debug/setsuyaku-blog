@@ -2,9 +2,12 @@
 title: "はじめまして！節約ブログを始めました"
 date: 2026-04-22
 description: "節約・家計管理・お金の知識を発信するブログをスタートしました。"
-ShowToc: true
+ShowToc: false
 TocOpen: false
 tags: ["節約", "家計管理", "自己紹介"]
+_build:
+  list: never
+  render: always
 ---
 
 ## はじめまして！
