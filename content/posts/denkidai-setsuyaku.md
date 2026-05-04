@@ -3,7 +3,7 @@ title: "電気代を月1,000円以上下げた節約術8選【一人暮らし向
 date: 2026-04-25
 description: "電気代の節約は今日からすぐできます。一人暮らしで実践した電気代節約術8選と、電力会社の乗り換え方法を解説します。"
 ShowToc: true
-TocOpen: false
+TocOpen: true
 tags: ["電気代", "節約", "光熱費", "一人暮らし"]
 cover:
   image: /images/denkidai.png

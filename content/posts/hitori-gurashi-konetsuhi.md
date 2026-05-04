@@ -3,7 +3,7 @@ title: "一人暮らしの光熱費の平均と節約法【電気・ガス・水
 date: 2026-04-25
 description: "一人暮らしの光熱費の平均は月1万円前後。電気・ガス・水道それぞれの節約法をまとめました。今日からすぐ実践できる方法を紹介します。"
 ShowToc: true
-TocOpen: false
+TocOpen: true
 tags: ["光熱費", "節約", "一人暮らし", "電気代", "ガス代"]
 cover:
   image: /images/konetsuhi.png

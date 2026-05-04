@@ -3,7 +3,7 @@ title: "格安SIMに乗り換えて月5,000円節約した話【おすすめ3選
 date: 2026-04-22
 description: "大手キャリアから格安SIMに乗り換えるだけで月5,000円以上節約できます。おすすめの格安SIM3選と乗り換え手順をわかりやすく解説します。"
 ShowToc: true
-TocOpen: false
+TocOpen: true
 tags: ["格安SIM", "節約", "スマホ代", "固定費削減"]
 cover:
   image: /images/kakuyasu-sim.png
