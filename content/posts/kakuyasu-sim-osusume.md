@@ -7,7 +7,7 @@ TocOpen: false
 tags: ["格安SIM", "節約", "スマホ代", "固定費削減"]
 cover:
   image: /images/kakuyasu-sim.png
-  alt: "スマートフォンを使う女性のイラスト"
+  alt: "スマートフォンを使うカップルのイラスト"
   caption: "出典：いらすとや"
   relative: false
 ---

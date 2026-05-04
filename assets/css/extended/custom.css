@@ -19,6 +19,40 @@ body {
   max-width: 780px;
 }
 
+/* --- アイキャッチ画像サイズ制御 --- */
+/* 記事ページのカバー画像を小さく */
+.post-single .entry-cover {
+  max-height: 260px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin-bottom: 24px;
+  text-align: center;
+  background: #f1f8f1;
+}
+
+.post-single .entry-cover img {
+  max-height: 260px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* 一覧ページのサムネイルも適切なサイズに */
+.post-entry .entry-cover {
+  max-height: 180px;
+  overflow: hidden;
+  border-radius: 8px 8px 0 0;
+  background: #f1f8f1;
+  text-align: center;
+}
+
+.post-entry .entry-cover img {
+  max-height: 180px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
 /* --- ヘッダー --- */
 .header {
   background-color: #ffffff;

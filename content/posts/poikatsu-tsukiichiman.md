@@ -7,7 +7,7 @@ TocOpen: false
 tags: ["ポイ活", "節約", "副収入", "お小遣い稼ぎ"]
 cover:
   image: /images/poikatsu.png
-  alt: "スタンプカードのイラスト"
+  alt: "マイレージカードのイラスト"
   caption: "出典：いらすとや"
   relative: false
 ---
