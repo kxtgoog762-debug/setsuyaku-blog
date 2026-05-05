@@ -218,45 +218,38 @@ body {
   text-decoration: underline;
 }
 
-/* --- アフィリエイトリンク（矢印テキストスタイル・画像リンクは除外） --- */
-.post-content a[href*="a8.net"]:not(:has(img)),
-.post-content a[href*="rakuten.co.jp"]:not(:has(img)),
-.post-content a[href*="px.a8"]:not(:has(img)) {
-  display: inline;
-  background: none;
+/* --- アフィリエイトリンク（テキスト・画像共通） --- */
+.post-content a[href*="a8.net"],
+.post-content a[href*="rakuten.co.jp"],
+.post-content a[href*="px.a8"] {
+  display: inline-block;
+  background: none !important;
   color: #2e8b57 !important;
-  text-decoration: underline;
-  text-decoration-color: #2e8b57;
+  text-decoration: underline !important;
+  text-decoration-color: #2e8b57 !important;
   text-underline-offset: 3px;
-  padding: 0;
-  border-radius: 0;
-  font-size: 1rem;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  font-size: inherit;
   font-weight: 700;
   margin: 0;
   transition: color 0.2s;
 }
 
-.post-content a[href*="a8.net"]:not(:has(img)):hover,
-.post-content a[href*="rakuten.co.jp"]:not(:has(img)):hover,
-.post-content a[href*="px.a8"]:not(:has(img)):hover {
+.post-content a[href*="a8.net"]:hover,
+.post-content a[href*="rakuten.co.jp"]:hover,
+.post-content a[href*="px.a8"]:hover {
   color: #1b5e20 !important;
-  text-decoration-color: #1b5e20;
+  text-decoration-color: #1b5e20 !important;
 }
 
 /* --- アフィリエイト画像バナー --- */
-.post-content a:has(img) {
-  display: inline-block;
-  background: none !important;
-  padding: 0 !important;
-  border-radius: 0 !important;
-  margin: 0 !important;
-}
-
-.post-content a:has(img) img {
+.post-content a img {
   display: block;
   max-width: 100%;
   height: auto;
   border-radius: 6px;
+  text-decoration: none;
 }
 
 /* --- タグ表示 --- */
