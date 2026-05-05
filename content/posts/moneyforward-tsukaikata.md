@@ -32,7 +32,7 @@ cover:
 
 **Step1：アプリをダウンロードしてアカウント作成**
 App Store・Google Playから無料でダウンロードできます。
-→ [マネーフォワードMEを無料で始める](https://px.a8.net/svt/ejp?a8mat=4B1U9V+5N0U2A+4JGQ+BXB8Z)
+→ <a href="https://px.a8.net/svt/ejp?a8mat=4B1U9V+5N0U2A+4JGQ+BXB8Z" class="aff-link" target="_blank" rel="nofollow sponsored noopener">マネーフォワードMEを無料で始める</a>
 
 **Step2：銀行・クレジットカードを連携する**
 「口座追加」から使っている金融機関を検索して、IDとパスワードを入力するだけです。

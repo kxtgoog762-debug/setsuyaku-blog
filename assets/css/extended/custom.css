@@ -218,27 +218,20 @@ body {
   text-decoration: underline;
 }
 
-/* --- アフィリエイトリンク（テキスト・画像共通） --- */
-.post-content a[href*="a8.net"],
-.post-content a[href*="rakuten.co.jp"],
-.post-content a[href*="px.a8"] {
-  display: inline-block;
-  background: none !important;
+/* --- アフィリエイトテキストリンク --- */
+.aff-link {
   color: #2e8b57 !important;
+  font-weight: 700;
   text-decoration: underline !important;
   text-decoration-color: #2e8b57 !important;
   text-underline-offset: 3px;
+  background: none !important;
   padding: 0 !important;
   border-radius: 0 !important;
-  font-size: inherit;
-  font-weight: 700;
-  margin: 0;
   transition: color 0.2s;
 }
 
-.post-content a[href*="a8.net"]:hover,
-.post-content a[href*="rakuten.co.jp"]:hover,
-.post-content a[href*="px.a8"]:hover {
+.aff-link:hover {
   color: #1b5e20 !important;
   text-decoration-color: #1b5e20 !important;
 }
@@ -249,7 +242,6 @@ body {
   max-width: 100%;
   height: auto;
   border-radius: 6px;
-  text-decoration: none;
 }
 
 /* --- タグ表示 --- */

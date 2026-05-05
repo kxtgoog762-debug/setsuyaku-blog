@@ -50,11 +50,11 @@ cover:
 ## まとめ
 
 楽天カードは年会費無料で高還元率の最強カードです。日常の支払いをまとめるだけで年間数万円分のポイントが貯まります。まだ持っていない方は今すぐ申し込みを検討してみてください。
-→ [楽天カードに申し込む（年会費永久無料）](https://hb.afl.rakuten.co.jp/hsc/536c0076.163f115f.536c0077.4c71edea/)
+→ <a href="https://hb.afl.rakuten.co.jp/hsc/536c0076.163f115f.536c0077.4c71edea/" class="aff-link" target="_blank" rel="nofollow sponsored noopener">楽天カードに申し込む（年会費永久無料）</a>
 
 楽天カードと組み合わせてポイ活をさらに加速させたい方は、ポイントサイトの活用もおすすめです。
 
-年会費無料のカードをもう1枚持ちたい方には、ネットから簡単に申し込める[エポスカード](https://px.a8.net/svt/ejp?a8mat=4B1U9U+F467OY+38L8+BX3J5)もおすすめです。入会特典でエポスポイントが2,000ptもらえます。
+年会費無料のカードをもう1枚持ちたい方には、ネットから簡単に申し込める<a href="https://px.a8.net/svt/ejp?a8mat=4B1U9U+F467OY+38L8+BX3J5" class="aff-link" target="_blank" rel="nofollow sponsored noopener">エポスカード</a>もおすすめです。入会特典でエポスポイントが2,000ptもらえます。
 
 ---
 
