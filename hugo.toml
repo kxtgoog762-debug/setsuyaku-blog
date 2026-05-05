@@ -1,5 +1,5 @@
 baseURL = "https://setsuyaku-blog.pages.dev/"
-title = "節約ブログ - 賢くお金を貯めよう"
+title = "ゆる節約ライフ"
 languageCode = "ja"
 defaultTheme = "light"
 
@@ -13,7 +13,7 @@ defaultTheme = "light"
 
 [params]
   author = "管理人"
-  description = "節約・家計管理・お金の知識を発信するブログ"
+  description = "頑張らなくていい節約術を発信するブログ。固定費削減・ポイ活・家計管理など、誰でもすぐ実践できる方法を紹介します。"
   defaultTheme = "light"
   disableThemeToggle = true
   ShowReadingTime = true
@@ -26,13 +26,12 @@ defaultTheme = "light"
   comments = false
 
   [params.homeInfoParams]
-    Title = "💰 節約ブログへようこそ"
+    Title = "💰 ゆる節約ライフへようこそ"
     Content = """
-節約・ポイ活・家計管理に関する情報を発信しています。
-毎月の固定費を見直すだけで**年間数万円の節約**も夢じゃありません。
-初心者の方でもすぐ実践できる方法を丁寧に解説します。
+「頑張らなくていい節約」をテーマに、固定費削減・ポイ活・家計管理の情報を発信しています。
+生活の質はそのままで、**自然とお金が貯まる仕組み**を一緒に作りましょう。
 
-👉 [このブログについて・プロフィール](/profile/)
+👉 [管理人プロフィールはこちら](/profile/)
 """
 
   [params.analytics.google]

@@ -1,7 +1,7 @@
 ---
 title: "管理人プロフィール"
 date: 2026-04-22
-description: "都内在住28歳・一人暮らし男子が節約術を発信するブログの管理人プロフィールです。"
+description: "ゆる節約ライフの管理人プロフィール。都内在住28歳・一人暮らしが実践する節約術を発信しています。"
 hidemeta: true
 ShowToc: false
 ShowBreadCrumbs: false
