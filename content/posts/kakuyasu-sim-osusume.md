@@ -85,6 +85,10 @@ cover:
 
 楽天モバイルは自社回線を持っているため、エリア内では速度の心配がほとんどありません。「格安SIMの品質が心配」という方にも選びやすい選択肢です。
 
+<div style="margin: 16px 0;">
+<a href="https://hb.afl.rakuten.co.jp/hsc/53757029.325cc968.536c0077.4c71edea/?link_type=pict&rafst=rmn&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MjM3Nzg5MiwiYW1wIjpmYWxzZX0%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hsb/53757029.325cc968.536c0077.4c71edea/?me_id=2101065&me_adv_id=2377892&t=pict" border="0" style="margin:2px" alt="楽天モバイル" title="楽天モバイル"></a>
+</div>
+
 ### 2. ahamo（ドコモ回線で安心派におすすめ）
 
 - **月額料金**：20GBで2,970円

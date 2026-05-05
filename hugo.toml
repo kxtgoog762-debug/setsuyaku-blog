@@ -3,6 +3,11 @@ title = "節約ブログ - 賢くお金を貯めよう"
 languageCode = "ja"
 defaultTheme = "light"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [pagination]
   pagerSize = 10
 
