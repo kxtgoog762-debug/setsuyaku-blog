@@ -60,6 +60,7 @@ cover:
 
 ## 関連記事
 
+- 👉 [新NISAの始め方【楽天証券で口座開設〜積立設定まで全手順を解説】](/posts/nisa-hajimekata-rakuten/)
 - 👉 [ふるさと納税のやり方【初心者でも5分でわかる完全ガイド】](/posts/furusato-nozei-yarikata/)
 - 👉 [ポイ活で月1万円稼ぐ方法【初心者向けおすすめサイト3選】](/posts/poikatsu-tsukiichiman/)
 - 👉 [節約初心者がまず見直すべき固定費5選【月2万円削減も可能】](/posts/koteihi-minaoshi/)
