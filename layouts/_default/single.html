@@ -34,6 +34,8 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{- partial "author_card.html" . }}
+
   {{- if .Content }}
   <div class="post-content md-content">
     {{- if not (.Param "disableAnchoredHeadings") }}

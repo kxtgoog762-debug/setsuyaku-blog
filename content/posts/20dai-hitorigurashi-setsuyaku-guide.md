@@ -79,7 +79,7 @@ cover:
 <a class="related-card" href="/posts/koteihi-minaoshi/">
   <span>
     <span class="related-card-label">固定費削減</span>
-    <span class="related-card-title">節約初心者がまず見直すべき固定費5選【28歳・世田谷一人暮らしが月3万円削減した実例】</span>
+    <span class="related-card-title">節約初心者がまず見直すべき固定費5選【28歳・都内一人暮らしが月3万円削減した実例】</span>
   </span>
 </a>
 
@@ -93,7 +93,7 @@ cover:
 <a class="related-card" href="/posts/denkidai-setsuyaku/">
   <span>
     <span class="related-card-label">電気代</span>
-    <span class="related-card-title">電気代を月1,800円下げた節約術【28歳・世田谷一人暮らしの実例とBefore/After】</span>
+    <span class="related-card-title">電気代を月1,800円下げた節約術【28歳・都内一人暮らしの実例とBefore/After】</span>
   </span>
 </a>
 
@@ -131,7 +131,7 @@ cover:
 <a class="related-card" href="/posts/hitori-gurashi-konetsuhi/">
   <span>
     <span class="related-card-label">光熱費</span>
-    <span class="related-card-title">一人暮らしの光熱費の平均と実額公開【28歳・世田谷在住の月別データ】</span>
+    <span class="related-card-title">一人暮らしの光熱費の平均と実額公開【28歳・都内在住の月別データ】</span>
   </span>
 </a>
 
