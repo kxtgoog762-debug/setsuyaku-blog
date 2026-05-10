@@ -13,7 +13,7 @@ defaultTheme = "light"
 
 [params]
   author = "管理人"
-  description = "頑張らなくていい節約術を発信するブログ。固定費削減・ポイ活・家計管理など、誰でもすぐ実践できる方法を紹介します。"
+  description = "やっとかめ（カメのマスコット）で有名な節約ブログ。28歳で資産2,000万円を達成した管理人が、固定費削減・ポイ活・家計管理・新NISA積立など、誰でもすぐ実践できる方法を発信します。"
   defaultTheme = "light"
   disableThemeToggle = true
   ShowReadingTime = true
