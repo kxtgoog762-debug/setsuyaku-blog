@@ -216,6 +216,13 @@ cover:
   </span>
 </a>
 
+<a class="related-card" href="/posts/nisa-1nen-jisseki/">
+  <span>
+    <span class="related-card-label">実績公開</span>
+    <span class="related-card-title">新NISA1年経過、20代会社員の含み損益を全公開【年収500万・一人暮らし男のリアル】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/rakuten-sbi-hikaku/">
   <span>
     <span class="related-card-label">証券会社</span>

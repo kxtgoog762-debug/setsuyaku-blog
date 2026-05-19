@@ -177,6 +177,13 @@ cover:
   </span>
 </a>
 
+<a class="related-card" href="/posts/nisa-1nen-jisseki/">
+  <span>
+    <span class="related-card-label">実績公開</span>
+    <span class="related-card-title">新NISA1年経過、20代会社員の含み損益を全公開【年収500万・一人暮らし男のリアル】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/koteihi-minaoshi/">
   <span>
     <span class="related-card-label">固定費削減</span>
