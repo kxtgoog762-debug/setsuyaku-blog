@@ -1,4 +1,116 @@
 {{- /* Head custom content area start */ -}}
-{{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
-{{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
+<style>
+  /* === 会話吹き出し（やっとかめ × まなぶくん） === */
+  .chat {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin: 18px 0;
+  }
+  .chat-right {
+    flex-direction: row-reverse;
+  }
+  .chat-avatar {
+    flex: 0 0 64px;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: #f7f6f1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .chat-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  .chat-name {
+    display: block;
+    text-align: center;
+    font-size: 0.72em;
+    color: #8a7a55;
+    margin-top: 4px;
+    letter-spacing: 0.04em;
+  }
+  .chat-avatar-wrap {
+    flex: 0 0 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .chat-bubble {
+    position: relative;
+    flex: 1;
+    max-width: calc(100% - 84px);
+    padding: 12px 16px;
+    border-radius: 14px;
+    background: #f7f6f1;
+    color: #333;
+    line-height: 1.65;
+    font-size: 0.94em;
+  }
+  .chat-bubble p {
+    margin: 0 0 0.4em;
+  }
+  .chat-bubble p:last-child {
+    margin-bottom: 0;
+  }
+  .chat-bubble strong {
+    color: #b8893f;
+  }
+  /* やっとかめ（左・先輩・薄黄色） */
+  .chat-yattokame .chat-bubble {
+    background: #fdf6e6;
+    border: 1px solid #ecdcb3;
+  }
+  .chat-yattokame .chat-bubble::before {
+    content: "";
+    position: absolute;
+    left: -8px;
+    top: 18px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 10px 8px 0;
+    border-color: transparent #fdf6e6 transparent transparent;
+    filter: drop-shadow(-1px 0 0 #ecdcb3);
+  }
+  /* まなぶくん（右・後輩・薄水色） */
+  .chat-manabu .chat-bubble {
+    background: #eef5fb;
+    border: 1px solid #cfe0ee;
+  }
+  .chat-manabu .chat-bubble::before {
+    content: "";
+    position: absolute;
+    right: -8px;
+    top: 18px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 0 8px 10px;
+    border-color: transparent transparent transparent #eef5fb;
+    filter: drop-shadow(1px 0 0 #cfe0ee);
+  }
+  @media (max-width: 480px) {
+    .chat {
+      gap: 8px;
+    }
+    .chat-avatar-wrap {
+      flex: 0 0 50px;
+    }
+    .chat-avatar {
+      flex: 0 0 50px;
+      width: 50px;
+      height: 50px;
+    }
+    .chat-bubble {
+      max-width: calc(100% - 64px);
+      font-size: 0.9em;
+      padding: 10px 14px;
+    }
+  }
+</style>
 {{- /* Head custom content area end */ -}}

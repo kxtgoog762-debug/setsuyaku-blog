@@ -1,0 +1,22 @@
+{{- $speaker := .Get "speaker" | default "yattokame" -}}
+{{- $isRight := eq $speaker "manabu" -}}
+{{- $img := "" -}}
+{{- $name := "" -}}
+{{- if eq $speaker "yattokame" -}}
+  {{- $img = "/images/yattokame-icon.png" -}}
+  {{- $name = "やっとかめ" -}}
+{{- else if eq $speaker "manabu" -}}
+  {{- $img = "/images/manabu-icon.png" -}}
+  {{- $name = "まなぶくん" -}}
+{{- end -}}
+<div class="chat chat-{{ $speaker }}{{ if $isRight }} chat-right{{ end }}">
+  <div class="chat-avatar-wrap">
+    <div class="chat-avatar">
+      <img src="{{ $img }}" alt="{{ $name }}" loading="lazy" />
+    </div>
+    <span class="chat-name">{{ $name }}</span>
+  </div>
+  <div class="chat-bubble">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
