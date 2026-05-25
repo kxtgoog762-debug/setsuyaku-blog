@@ -26,6 +26,10 @@
     height: 100%;
     object-fit: contain;
   }
+  /* 会話シーンでは2人が向かい合うように、左側のやっとかめのみ左右反転 */
+  .chat-yattokame .chat-avatar img {
+    transform: scaleX(-1);
+  }
   .chat-name {
     display: block;
     text-align: center;
