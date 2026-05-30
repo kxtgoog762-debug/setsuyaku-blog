@@ -22,6 +22,11 @@
 <body id="top">
 {{- end }}
     {{ partialCached "header.html" . .Page -}}
+    {{- if .IsHome }}
+    <div class="site-hero">
+      <img src="/images/site-banner.png" alt="ゆる節約ライフ - ゆるく着実に、未来の自由へ。固定費の見直し・投資NISA・ポイ活お得活用・資産形成" />
+    </div>
+    {{- end }}
     <main class="main">
         <div class="main-with-sidebar">
             <div class="main-content">

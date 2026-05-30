@@ -244,14 +244,21 @@
     transform: translateY(-1px);
   }
 
-  /* === トップページのサイトバナー === */
-  .site-banner {
+  /* === トップページのフルワイドサイトヒーロー === */
+  .site-hero {
+    width: 100%;
+    background: #ebf3da;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-bottom: 2px solid #cfdfae;
+  }
+  .site-hero img {
     width: 100%;
     height: auto;
     display: block;
-    border-radius: 12px;
-    margin: 0 0 1.5em 0;
-    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+    max-width: 1600px;
+    margin: 0 auto;
   }
   /* バナー画像にタイトル情報が含まれるため、h1テキストはスクリーンリーダー専用にして非表示 */
   .first-entry.home-info > header.entry-header {

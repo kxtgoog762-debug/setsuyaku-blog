@@ -28,8 +28,6 @@ defaultTheme = "light"
   [params.homeInfoParams]
     Title = "ゆる節約ライフへようこそ"
     Content = """
-<img src="/images/site-banner.png" alt="ゆる節約ライフ - ゆるく着実に、未来の自由へ。固定費の見直し・投資NISA・ポイ活お得活用・資産形成" class="site-banner" />
-
 **28歳・資産2,000万円・35歳FIRE目標**のFラン卒会社員が、都内一人暮らしのリアルな節約・資産形成術を発信しています。
 
 「頑張らなくていい節約」をテーマに、固定費削減・新NISA・ポイ活・家計管理の実体験ベース情報をお届けしています。
