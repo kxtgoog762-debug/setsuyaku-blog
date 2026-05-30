@@ -1,6 +1,39 @@
 {{- /* Head custom content area start */ -}}
 <style>
   /* ====================================================================
+     === サイト全体のテーマカラー（黄緑＝バナーの世界観に合わせる） ===
+     ==================================================================== */
+  :root,
+  html[data-theme="light"] {
+    --theme: #f3f8ec;       /* 全体背景：薄い黄緑 */
+    --entry: #ffffff;        /* 記事カードは白で浮かせる */
+    --tertiary: #e4ecd6;     /* 区切り線：黄緑トーン */
+    --content: #333;
+  }
+  body {
+    background: #f3f8ec;
+  }
+  /* 記事本文・カード類は白で読みやすさをキープ */
+  .post-entry,
+  .first-entry,
+  .page-content,
+  article.post-single {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px 24px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  }
+  /* ヘッダーも黄緑トーンで統一 */
+  .header {
+    background: #ebf3da !important;
+    border-bottom: 2px solid #cfdfae !important;
+  }
+  /* フッターも軽く色付け */
+  .footer {
+    background: transparent;
+  }
+
+  /* ====================================================================
      === グローバルメニュー強化（リッチ化） ===
      ==================================================================== */
   .nav .menu,
@@ -16,19 +49,15 @@
   }
   .nav .menu li a:hover,
   .header-nav .menu li a:hover {
-    background: #f7f6f1;
-    color: #b8893f;
+    background: #d8e8b8;
+    color: #4a6a1f;
   }
   .nav .menu li a .active,
   .header-nav .menu li a .active {
-    background: #c9a76e;
+    background: #7ba23c;
     color: #fff;
     padding: 6px 12px;
     border-radius: 6px;
-  }
-  .header {
-    border-bottom: 2px solid #f0ece0;
-    background: #fffdf8;
   }
 
   /* ====================================================================
