@@ -245,9 +245,9 @@
   }
 
   /* === トップページのフルワイドサイトヒーロー === */
+  /* 画像自体を横長3.53:1にクロップ済みなので、横幅100%＋高さautoで全要素を見せる */
   .site-hero {
     width: 100%;
-    height: 320px;
     background: #ebf3da;
     margin: 0;
     padding: 0;
@@ -256,22 +256,9 @@
   }
   .site-hero img {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 35%;
+    height: auto;
     display: block;
-  }
-  /* タブレット */
-  @media (max-width: 1024px) {
-    .site-hero {
-      height: 240px;
-    }
-  }
-  /* スマホ */
-  @media (max-width: 600px) {
-    .site-hero {
-      height: 160px;
-    }
+    max-width: 100%;
   }
   /* バナー画像にタイトル情報が含まれるため、h1テキストはスクリーンリーダー専用にして非表示 */
   .first-entry.home-info > header.entry-header {
