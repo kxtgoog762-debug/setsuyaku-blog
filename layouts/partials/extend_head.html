@@ -1,5 +1,27 @@
 {{- /* Head custom content area start */ -}}
 <style>
+  /* === トップページのサイトバナー === */
+  .site-banner {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+    margin: 0 0 1.5em 0;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+  /* バナー画像にタイトル情報が含まれるため、h1テキストはスクリーンリーダー専用にして非表示 */
+  .first-entry.home-info > header.entry-header {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
   /* === 会話吹き出し（やっとかめ × まなぶくん） === */
   .chat {
     display: flex;
