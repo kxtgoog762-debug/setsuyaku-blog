@@ -5,31 +5,50 @@
      ==================================================================== */
   :root,
   html[data-theme="light"] {
-    --theme: #f3f8ec;       /* 全体背景：薄い黄緑 */
-    --entry: #ffffff;        /* 記事カードは白で浮かせる */
-    --tertiary: #e4ecd6;     /* 区切り線：黄緑トーン */
-    --content: #333;
+    --theme: #f3f8ec !important;       /* 全体背景：薄い黄緑 */
+    --entry: #ffffff !important;       /* 記事カードは白で浮かせる */
+    --tertiary: #e4ecd6 !important;    /* 区切り線：黄緑トーン */
+    --content: #333 !important;
+    --hljs-bg: #f7faef !important;
   }
+  html,
   body {
-    background: #f3f8ec;
+    background: #f3f8ec !important;
+    background-color: #f3f8ec !important;
+  }
+  /* メイン領域も透過させて、body の黄緑を見せる */
+  .main,
+  .main-with-sidebar,
+  .main-content,
+  body.list .main,
+  body#top .main {
+    background: transparent !important;
   }
   /* 記事本文・カード類は白で読みやすさをキープ */
   .post-entry,
   .first-entry,
   .page-content,
   article.post-single {
-    background: #ffffff;
+    background: #ffffff !important;
     border-radius: 12px;
     padding: 20px 24px;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  }
+  /* 記事一覧の各記事カードも個別に立たせる */
+  article.post-entry {
+    margin-bottom: 16px;
   }
   /* ヘッダーも黄緑トーンで統一 */
   .header {
     background: #ebf3da !important;
     border-bottom: 2px solid #cfdfae !important;
   }
-  /* フッターも軽く色付け */
+  /* フッターも透過 */
   .footer {
+    background: transparent !important;
+  }
+  /* ページネーション・ボタンも背景透過 */
+  .pagination, .paginav {
     background: transparent;
   }
 
