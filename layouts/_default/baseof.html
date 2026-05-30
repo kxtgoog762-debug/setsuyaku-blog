@@ -23,7 +23,14 @@
 {{- end }}
     {{ partialCached "header.html" . .Page -}}
     <main class="main">
-        {{- block "main" . }}{{ end }}
+        <div class="main-with-sidebar">
+            <div class="main-content">
+                {{- block "main" . }}{{ end }}
+            </div>
+            {{- if not (.Param "hideSidebar") }}
+            {{ partial "sidebar.html" . }}
+            {{- end }}
+        </div>
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
