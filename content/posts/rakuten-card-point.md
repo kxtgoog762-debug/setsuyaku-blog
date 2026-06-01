@@ -14,6 +14,14 @@ cover:
 
 > ※本記事にはアフィリエイト広告が含まれています。
 
+{{< chat speaker="manabu" >}}
+やっとかめさん、クレカって種類が多すぎて、どれを作ればいいか分からないんです。
+{{< /chat >}}
+
+{{< chat speaker="yattokame" >}}
+節約・ポイ活の観点なら、まず持つべきは**楽天カード一択**だよ。年会費無料で還元率1%、工夫すれば年3万円分も貯まる。今日はその貯め方を5つに絞って教えるね。
+{{< /chat >}}
+
 「クレジットカードを作りたいけど、種類が多すぎてどれがいいかわからない…」という方は多いのではないでしょうか。
 
 節約・ポイ活の観点からいうと、まず持つべき1枚は**楽天カード**一択です。年会費無料で還元率1%、使い方を工夫すれば**年間3万円分以上のポイント**が貯まります。
@@ -56,9 +64,26 @@ cover:
 
 年会費無料のカードをもう1枚持ちたい方には、ネットから簡単に申し込める<a href="https://px.a8.net/svt/ejp?a8mat=4B1U9U+F467OY+38L8+BX3J5" class="aff-link" target="_blank" rel="nofollow sponsored noopener">エポスカード</a>もおすすめです。入会特典でエポスポイントが2,000ptもらえます。
 
+{{< chat speaker="manabu" >}}
+カードでポイントを貯める一方で、固定費も減らしたいんですけど、何から手をつけたらいいですか？
+{{< /chat >}}
+
+{{< chat speaker="yattokame" >}}
+意外と効くのがサブスクの見直しだよ。私は棚卸しして月1万円も減らせた。解約したもの・残したものを別記事にまとめたから参考にしてみて。
+{{< /chat >}}
+
+<a class="related-card" href="/posts/subscription-minaoshi/">
+  <span>
+    <span class="related-card-label">サブスク見直し</span>
+    <span class="related-card-title">サブスクを見直して月1万円減らした話【20代一人暮らしが解約したもの・残したもの】</span>
+  </span>
+</a>
+
 ---
 
 ## 関連記事
+
+- 👉 [サブスクを見直して月1万円減らした話](/posts/subscription-minaoshi/)
 
 - 👉 [新NISAの始め方【楽天証券で口座開設〜積立設定まで全手順を解説】](/posts/nisa-hajimekata-rakuten/)
 - 👉 [ふるさと納税のやり方【初心者でも5分でわかる完全ガイド】](/posts/furusato-nozei-yarikata/)
