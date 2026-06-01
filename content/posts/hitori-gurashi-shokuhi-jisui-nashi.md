@@ -150,6 +150,21 @@ cover:
 
 「自炊しない＝食費が高い」は思い込みです。買い方・払い方を少し変えるだけで、毎月の食費はしっかり抑えられます。
 
+{{< chat speaker="manabu" >}}
+買い方を変えるのが大事なんですね。そういえば僕、コンビニでつい買っちゃうクセがあって…。
+{{< /chat >}}
+
+{{< chat speaker="yattokame" >}}
+あー、それは要注意。私もコンビニで月2万円溶かしてた時期がある。我慢じゃなく仕組みでやめた方法を別記事にまとめたから読んでみて。
+{{< /chat >}}
+
+<a class="related-card" href="/posts/conveni-izon-yameta/">
+  <span>
+    <span class="related-card-label">脱コンビニ</span>
+    <span class="related-card-title">コンビニで月2万円使っていた私がやめた方法【28歳一人暮らし男の脱コンビニ術】</span>
+  </span>
+</a>
+
 ---
 
 <p class="related-section-title">あわせて読みたい</p>
