@@ -261,6 +261,13 @@ SBI証券も人気ですが、私は楽天経済圏で生活しているので**
   </span>
 </a>
 
+<a class="related-card" href="/posts/shogakukin-hensai-toushi/">
+  <span>
+    <span class="related-card-label">奨学金と投資</span>
+    <span class="related-card-title">奨学金を返しながら20代で資産形成した方法【返済と投資を両立したリアル】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/20dai-hitorigurashi-setsuyaku-guide/">
   <span>
     <span class="related-card-label">節約戦略</span>
