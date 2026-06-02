@@ -106,7 +106,7 @@ cover:
 
 月3万円の食費をすべて楽天カードで払うだけで、毎月300ポイント（＝300円分）が自動的に貯まります。
 
-→ <a href="https://hb.afl.rakuten.co.jp/hsc/536c0076.163f115f.536c0077.4c71edea/" class="aff-link" target="_blank" rel="nofollow sponsored noopener">楽天カードに申し込む（年会費永久無料）</a>
+<a href="https://hb.afl.rakuten.co.jp/hsc/536c0076.163f115f.536c0077.4c71edea/" class="aff-btn aff-btn-accent" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">楽天カードを申し込む</span><span class="aff-btn-sub">年会費永久無料・新規入会で5,000ポイント</span></a>
 
 ### ⑤ ふるさと納税で食材を実質タダで手に入れる
 
