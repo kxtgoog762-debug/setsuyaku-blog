@@ -177,3 +177,10 @@ cover:
     <span class="related-card-title">楽天でんきに乗り換えて1年、正直よかった点・イマイチな点【28歳一人暮らしのリアル】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/rakuten-keizaiken-1nen/">
+  <span>
+    <span class="related-card-label">楽天経済圏</span>
+    <span class="related-card-title">楽天経済圏を1年続けた結果【20代一人暮らしが貯めたポイントと正直な感想】</span>
+  </span>
+</a>

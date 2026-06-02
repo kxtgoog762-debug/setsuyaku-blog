@@ -47,3 +47,4 @@
 # ============================================================
 2026-06-03 06:39 | [ボタン化] moneyforward-tsukaikata(テキストリンク2→aff-btnボタン化) | ロードマップ最優先施策に着手 | サイクル24完了→25へ
 2026-06-03 06:40 | [ボタン化] poikatsu-tsukiichiman/rakuten-card-point/hitori-gurashi-shokuhi-jisui-nashi の主要CTA3箇所をボタン化 | サイクル25完了→26へ
+2026-06-03 06:42 | 20代の投資完全ガイド(投資ピラー記事・証券系9記事を集約) | nisa-hajimekata-rakuten(相互リンク追加) | サイクル26完了→27へ
