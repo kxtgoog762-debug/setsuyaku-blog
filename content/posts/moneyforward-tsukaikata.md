@@ -40,7 +40,7 @@ cover:
 
 **Step1：アプリをダウンロードしてアカウント作成**
 App Store・Google Playから無料でダウンロードできます。
-→ <a href="https://px.a8.net/svt/ejp?a8mat=4B1U9V+5N0U2A+4JGQ+BXB8Z" class="aff-link" target="_blank" rel="nofollow sponsored noopener">マネーフォワードMEを無料で始める</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1U9V+5N0U2A+4JGQ+BXB8Z" class="aff-btn aff-btn-secondary" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">マネーフォワードMEを無料で始める</span><span class="aff-btn-sub">登録無料・銀行/カードを連携するだけ</span></a>
 
 **Step2：銀行・クレジットカードを連携する**
 「口座追加」から使っている金融機関を検索して、IDとパスワードを入力するだけです。
@@ -61,7 +61,7 @@ App Store・Google Playから無料でダウンロードできます。
 ## まとめ
 
 マネーフォワードMEは無料で始められる最強の家計管理ツールです。まず連携するだけでOK。自分のお金の流れが見えると、自然と節約意識が高まります。
-→ [マネーフォワードMEを今すぐ無料で始める](https://px.a8.net/svt/ejp?a8mat=4B1U9V+5N0U2A+4JGQ+BXB8Z)
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1U9V+5N0U2A+4JGQ+BXB8Z" class="aff-btn aff-btn-secondary" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">マネーフォワードMEを今すぐ無料で始める</span><span class="aff-btn-sub">完全無料・お金の流れが自動で見える</span></a>
 
 支出の把握ができたら、次は固定費の見直しに取り組みましょう。一度変えるだけで毎月の節約が続きます。
 
