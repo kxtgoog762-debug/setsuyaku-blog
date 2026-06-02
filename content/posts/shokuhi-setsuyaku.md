@@ -255,6 +255,13 @@ cover:
   </span>
 </a>
 
+<a class="related-card" href="/posts/kaishain-lunch-setsuyaku/">
+  <span>
+    <span class="related-card-label">ランチ代</span>
+    <span class="related-card-title">会社員のランチ代を月1万円減らした方法【20代一人暮らし・毎日弁当なしでもOK】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/koteihi-minaoshi/">
   <span>
     <span class="related-card-label">固定費削減</span>
