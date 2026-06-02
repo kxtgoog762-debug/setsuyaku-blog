@@ -344,3 +344,10 @@ cover:
     <span class="related-card-title">投資しないリスクとは？「貯金=安全」の思い込みがお金を減らす理由</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/tedori-20man-kakei-haibun/">
+  <span>
+    <span class="related-card-label">家計配分</span>
+    <span class="related-card-title">手取り20万円の理想的な家計配分【20代一人暮らしの黄金比と実例公開】</span>
+  </span>
+</a>
