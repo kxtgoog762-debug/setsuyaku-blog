@@ -191,6 +191,13 @@ cover:
   </span>
 </a>
 
+<a class="related-card" href="/posts/furusato-hitorigurashi-gendogaku/">
+  <span>
+    <span class="related-card-label">限度額</span>
+    <span class="related-card-title">ふるさと納税は一人暮らしでいくらまで？年収別の限度額と20代におすすめの返礼品</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/koteihi-minaoshi/">
   <span>
     <span class="related-card-label">固定費削減</span>
