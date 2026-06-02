@@ -181,3 +181,10 @@ cover:
     <span class="related-card-title">20代一人暮らしの節約完全ガイド【28歳・資産2000万円の私が実践している全戦略】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/jikka-hitorigurashi-hikaku/">
+  <span>
+    <span class="related-card-label">住まいの選択</span>
+    <span class="related-card-title">実家暮らしと一人暮らし、20代でどっちが貯まる？両方やった私の結論【年間60万円差】</span>
+  </span>
+</a>
