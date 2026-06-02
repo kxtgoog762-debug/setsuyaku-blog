@@ -179,6 +179,13 @@ cover:
   </span>
 </a>
 
+<a class="related-card" href="/posts/20dai-kousaihi-nomikai/">
+  <span>
+    <span class="related-card-label">交際費</span>
+    <span class="related-card-title">20代会社員の交際費、年100万円使ってた私が月2万円に抑えた話【飲み会の断り方】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/moneyforward-tsukaikata/">
   <span>
     <span class="related-card-label">家計管理</span>
