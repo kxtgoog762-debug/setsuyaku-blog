@@ -82,10 +82,25 @@ App Store・Google Playから無料でダウンロードできます。
 
 ---
 
-## 関連記事
+<p class="related-section-title">あわせて読みたい</p>
 
-- 👉 [手取り28万円・20代一人暮らし男のリアルな家計簿を全公開](/posts/hitorigurashi-kakeibo/)
+<a class="related-card" href="/posts/tedori-20man-kakei-haibun/">
+  <span>
+    <span class="related-card-label">家計配分</span>
+    <span class="related-card-title">手取り20万円の理想的な家計配分【20代一人暮らしの黄金比と実例公開】</span>
+  </span>
+</a>
 
-- 👉 [節約初心者がまず見直すべき固定費5選【月2万円削減も可能】](/posts/koteihi-minaoshi/)
-- 👉 [一人暮らしの食費を月2万円に抑える節約術10選](/posts/shokuhi-setsuyaku/)
-- 👉 [ポイ活で月1万円稼ぐ方法【初心者向けおすすめサイト3選】](/posts/poikatsu-tsukiichiman/)
+<a class="related-card" href="/posts/koteihi-minaoshi/">
+  <span>
+    <span class="related-card-label">固定費削減</span>
+    <span class="related-card-title">節約初心者がまず見直すべき固定費5選【月3万円削減も可能】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/shokuhi-setsuyaku/">
+  <span>
+    <span class="related-card-label">食費節約</span>
+    <span class="related-card-title">一人暮らしの食費を月2万円に抑えるコツ【28歳・都内のリアルな実例】</span>
+  </span>
+</a>
