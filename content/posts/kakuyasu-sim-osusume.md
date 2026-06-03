@@ -202,3 +202,10 @@ cover:
     <span class="related-card-title">ポイ活で月1万円稼ぐ方法【初心者向けおすすめサイト3選】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/shinsotsu-tedori18man-chokin/">
+  <span>
+    <span class="related-card-label">新卒の貯金</span>
+    <span class="related-card-title">新卒1年目・手取り18万円でも貯金する方法【20代一人暮らしのリアルな家計術】</span>
+  </span>
+</a>
