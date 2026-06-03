@@ -81,11 +81,25 @@ cover:
 
 ---
 
-## 関連記事
+<p class="related-section-title">あわせて読みたい</p>
 
-- 👉 [サブスクを見直して月1万円減らした話](/posts/subscription-minaoshi/)
+<a class="related-card" href="/posts/rakuten-keizaiken-1nen/">
+  <span>
+    <span class="related-card-label">楽天経済圏</span>
+    <span class="related-card-title">楽天経済圏を1年続けた結果【20代一人暮らしが貯めたポイントと正直な感想】</span>
+  </span>
+</a>
 
-- 👉 [新NISAの始め方【楽天証券で口座開設〜積立設定まで全手順を解説】](/posts/nisa-hajimekata-rakuten/)
-- 👉 [ふるさと納税のやり方【初心者でも5分でわかる完全ガイド】](/posts/furusato-nozei-yarikata/)
-- 👉 [ポイ活で月1万円稼ぐ方法【初心者向けおすすめサイト3選】](/posts/poikatsu-tsukiichiman/)
-- 👉 [節約初心者がまず見直すべき固定費5選【月2万円削減も可能】](/posts/koteihi-minaoshi/)
+<a class="related-card" href="/posts/rakuten-card-demerit/">
+  <span>
+    <span class="related-card-label">カード評価</span>
+    <span class="related-card-title">楽天カードのデメリット5つ。それでも私が使い続ける理由【20代のリアル】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/nisa-hajimekata-rakuten/">
+  <span>
+    <span class="related-card-label">新NISA入門</span>
+    <span class="related-card-title">新NISAの始め方を楽天証券で解説【20代初心者向け・画像付き】</span>
+  </span>
+</a>
