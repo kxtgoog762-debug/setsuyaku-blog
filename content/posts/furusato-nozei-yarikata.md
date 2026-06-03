@@ -48,7 +48,7 @@ cover:
 ## ふるさと納税の手順（4ステップ）
 
 **Step1：控除上限額を調べる**
-収入によって控除できる上限額が変わります。各サイトのシミュレーターで簡単に計算できます。
+収入によって控除できる上限額が変わります。各サイトのシミュレーターで簡単に計算できます。一人暮らしの方は[年収別の限度額の目安](/posts/furusato-hitorigurashi-gendogaku/)もあわせて確認してください。
 
 **Step2：返礼品を選んで寄附する**
 好きな自治体・返礼品を選んで申し込みます。楽天カードで支払うとポイントも貯まってさらにお得です。→ [楽天カードで年間3万円分のポイントを貯める方法](/posts/rakuten-card-point/)
@@ -60,6 +60,14 @@ cover:
 数週間〜数ヶ月で返礼品が届き、翌年6月から住民税が安くなります。
 
 ## おすすめのふるさと納税サイト3選
+
+まずは主要3サイトを比較表でまとめました。自分に合うものを選んでください。
+
+| サイト | 特徴 | こんな人におすすめ |
+|--|--|--|
+| ふるなび | 家電・旅行が豊富／Amazonギフト還元あり | 初心者・家電も狙いたい人 |
+| さとふる | 返礼品の到着が早い／アプリが使いやすい | 食品狙い・スマホで完結したい人 |
+| 楽天ふるさと納税 | 楽天ポイントが貯まる・使える | 楽天経済圏でまとめたい人 |
 
 ### 1. ふるなび
 - 家電・旅行などの返礼品が豊富
@@ -105,8 +113,32 @@ cover:
 
 ---
 
-## 関連記事
+<p class="related-section-title">あわせて読みたい</p>
 
-- 👉 [楽天カードで年間3万円分のポイントを貯める方法【節約家必見】](/posts/rakuten-card-point/)
-- 👉 [一人暮らしの食費を月2万円に抑える節約術10選](/posts/shokuhi-setsuyaku/)
-- 👉 [節約初心者がまず見直すべき固定費5選【月2万円削減も可能】](/posts/koteihi-minaoshi/)
+<a class="related-card" href="/posts/furusato-hitorigurashi-gendogaku/">
+  <span>
+    <span class="related-card-label">限度額</span>
+    <span class="related-card-title">ふるさと納税は一人暮らしでいくらまで？年収別の限度額と20代におすすめの返礼品</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/rakuten-card-point/">
+  <span>
+    <span class="related-card-label">ポイント活用</span>
+    <span class="related-card-title">楽天カードのポイントを効率よく貯める方法【20代一人暮らしの実例】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/shokuhi-setsuyaku/">
+  <span>
+    <span class="related-card-label">食費節約</span>
+    <span class="related-card-title">一人暮らしの食費を月2万円に抑えるコツ【28歳・都内のリアルな実例】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/koteihi-minaoshi/">
+  <span>
+    <span class="related-card-label">固定費削減</span>
+    <span class="related-card-title">節約初心者がまず見直すべき固定費5選【月3万円削減も可能】</span>
+  </span>
+</a>
