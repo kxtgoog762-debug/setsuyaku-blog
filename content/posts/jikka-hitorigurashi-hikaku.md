@@ -176,6 +176,13 @@ cover:
   </span>
 </a>
 
+<a class="related-card" href="/posts/dousei-futari-setsuyaku/">
+  <span>
+    <span class="related-card-label">同棲・二人暮らし</span>
+    <span class="related-card-title">同棲カップルの節約術【二人暮らしは月いくら？家計の分け方と貯金のコツ】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/20dai-hitorigurashi-setsuyaku-guide/">
   <span>
     <span class="related-card-label">節約ガイド</span>
