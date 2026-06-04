@@ -214,6 +214,13 @@ cover:
   </span>
 </a>
 
+<a class="related-card" href="/posts/20dai-okane-benkyou/">
+  <span>
+    <span class="related-card-label">お金の勉強</span>
+    <span class="related-card-title">20代のうちに身につけたいお金の知識【独学でできる勉強法と順番】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/rakuten-card-point/">
   <span>
     <span class="related-card-label">ポイ活・カード</span>
