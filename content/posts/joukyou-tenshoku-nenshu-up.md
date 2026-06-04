@@ -196,6 +196,13 @@ cover:
   </span>
 </a>
 
+<a class="related-card" href="/posts/20dai-tedori-fuyasu/">
+  <span>
+    <span class="related-card-label">収入アップ</span>
+    <span class="related-card-title">20代が手取りを増やす3つの方法【昇給・転職・副業を実体験で比較】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/nisa-1nen-jisseki/">
   <span>
     <span class="related-card-label">実績公開</span>
