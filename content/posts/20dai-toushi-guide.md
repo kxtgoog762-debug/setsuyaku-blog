@@ -177,3 +177,10 @@ cover:
     <span class="related-card-title">20代一人暮らしの平均貯金額はいくら？28歳で2000万円貯めた私のリアル</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/20dai-ideco-hitsuyou/">
+  <span>
+    <span class="related-card-label">iDeCo</span>
+    <span class="related-card-title">20代にiDeCoは必要？新NISAとの違い・どっちを優先すべきか解説</span>
+  </span>
+</a>
