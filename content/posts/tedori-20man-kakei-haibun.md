@@ -217,3 +217,10 @@ cover:
     <span class="related-card-title">マネーフォワードMEの使い方【無料版で家計管理を自動化する方法】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/tedori-betsu-yachin-meyasu/">
+  <span>
+    <span class="related-card-label">家賃の目安</span>
+    <span class="related-card-title">手取り別・一人暮らしの家賃目安【手取り18〜30万円の上限を早見表で解説】</span>
+  </span>
+</a>
