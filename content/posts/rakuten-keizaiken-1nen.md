@@ -199,3 +199,10 @@ cover:
     <span class="related-card-title">手取り20万円の理想的な家計配分【20代一人暮らしの黄金比と実例公開】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/rakuten-keizaiken-yameta/">
+  <span>
+    <span class="related-card-label">やめた？続ける？</span>
+    <span class="related-card-title">楽天経済圏をやめた理由3つと、それでも続けている私の結論【正直レビュー】</span>
+  </span>
+</a>
