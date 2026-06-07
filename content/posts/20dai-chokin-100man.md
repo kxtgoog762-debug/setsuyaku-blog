@@ -171,3 +171,10 @@ cover:
     <span class="related-card-title">20代で資産2000万円貯めるまでにやめた無駄遣い7つ【一人暮らし男のリアル】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/28sai-chokin-100man-ika-kiki/">
+  <span>
+    <span class="related-card-label">28歳の危機感</span>
+    <span class="related-card-title">28歳・貯金100万円以下で30代を迎えそうだった私が本気で変わった話</span>
+  </span>
+</a>
