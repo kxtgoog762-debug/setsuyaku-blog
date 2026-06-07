@@ -209,3 +209,10 @@ cover:
     <span class="related-card-title">新卒1年目・手取り18万円でも貯金する方法【20代一人暮らしのリアルな家計術】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/kakuyasu-sim-kaenakatta-koukai/">
+  <span>
+    <span class="related-card-label">格安SIM後悔</span>
+    <span class="related-card-title">格安SIMに変えなかった後悔【4年間で28万円の損失を計算したら後悔しかなかった】</span>
+  </span>
+</a>
