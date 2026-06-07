@@ -166,3 +166,10 @@ cover:
     <span class="related-card-title">35歳FIREに必要な金額を計算してみた【28歳・資産2000万円からの逆算】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/bonus-zenbu-tsukaikiru-koukai/">
+  <span>
+    <span class="related-card-label">ボーナスの失敗</span>
+    <span class="related-card-title">ボーナスを全部使い切る生活を3年続けた後悔【28歳・毎年繰り返した失敗の記録】</span>
+  </span>
+</a>
