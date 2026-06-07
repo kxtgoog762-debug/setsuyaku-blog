@@ -170,3 +170,10 @@ cover:
     <span class="related-card-title">ポイ活で消耗してやめた3つのこと【28歳・一人暮らし男が見つけた本当に得する方法】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/fukugyou-hajimeru-osokatta-koukai/">
+  <span>
+    <span class="related-card-label">副業の後悔</span>
+    <span class="related-card-title">副業を始めるのが遅すぎた後悔【25歳から始めれば100万円変わった計算】</span>
+  </span>
+</a>
