@@ -188,3 +188,10 @@ cover:
     <span class="related-card-title">実家暮らしと一人暮らし、20代でどっちが貯まる？両方やった私の結論【年間60万円差】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/yachin-takai-heya-koukai/">
+  <span>
+    <span class="related-card-label">家賃の後悔</span>
+    <span class="related-card-title">家賃が高すぎる部屋を借りた後悔【3年間で損した120万円の計算】</span>
+  </span>
+</a>
