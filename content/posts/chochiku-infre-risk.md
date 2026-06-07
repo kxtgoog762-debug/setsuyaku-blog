@@ -227,3 +227,10 @@ cover:
     <span class="related-card-title">楽天カードのポイントを効率よく貯める方法【20代一人暮らしの実例】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/nisa-hajimenakata-koukai/">
+  <span>
+    <span class="related-card-label">NISA先延ばし後悔</span>
+    <span class="related-card-title">新NISAを1年遅らせた後悔【気づいた機会損失は約18万円だった】</span>
+  </span>
+</a>
