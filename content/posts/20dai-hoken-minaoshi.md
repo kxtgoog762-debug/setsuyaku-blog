@@ -175,3 +175,10 @@ cover:
     <span class="related-card-title">投資しないリスクとは？「貯金=安全」の思い込みがお金を減らす理由</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/hoken-minaosanakatta-koukai/">
+  <span>
+    <span class="related-card-label">保険の後悔</span>
+    <span class="related-card-title">保険を見直さなかった後悔【5年間で54万円を無駄に払い続けた記録】</span>
+  </span>
+</a>
