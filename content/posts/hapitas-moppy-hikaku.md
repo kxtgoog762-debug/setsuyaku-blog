@@ -315,3 +315,17 @@ cover:
     <span class="related-card-title">楽天カードのデメリット5つ。それでも28歳・資産2000万円の私が使い続ける理由</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/poikatsu-guide/">
+  <span>
+    <span class="related-card-label">ポイ活ガイド</span>
+    <span class="related-card-title">ポイ活完全ガイド【20代初心者が月1万円を無理なく稼ぐ始め方と全手順】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/poikatsu-koukai/">
+  <span>
+    <span class="related-card-label">失敗談</span>
+    <span class="related-card-title">ポイ活で消耗してやめた3つのこと【28歳・一人暮らし男が見つけた本当に得する方法】</span>
+  </span>
+</a>

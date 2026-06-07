@@ -155,3 +155,17 @@ cover:
     <span class="related-card-title">20代におすすめのネット証券5社を徹底比較【NISA・IPO・手数料で選ぶ】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/20dai-ideco-hitsuyou/">
+  <span>
+    <span class="related-card-label">iDeCo比較</span>
+    <span class="related-card-title">20代にiDeCoは必要？新NISAとの違い・どっちを優先すべきか解説</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/chochiku-infre-risk/">
+  <span>
+    <span class="related-card-label">投資の前提知識</span>
+    <span class="related-card-title">投資しないリスクとは？「貯金=安全」の思い込みがお金を減らす理由</span>
+  </span>
+</a>

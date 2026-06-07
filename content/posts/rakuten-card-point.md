@@ -1,7 +1,7 @@
 ---
 title: "楽天カードで年間3万円分のポイントを貯める方法【節約家必見】"
 date: 2026-04-25
-description: "楽天カードは節約家に最もおすすめのクレジットカードです。年会費無料で高いポイント還元率を誇ります。効率的なポイントの貯め方を解説します。"
+description: "楽天カードのポイントを効率よく貯める方法を解説。年会費無料・還元率1%の楽天カードで私が年間3万円分のポイントを獲得した実際の内訳と、20代一人暮らし向けの活用法を公開します。"
 ShowToc: true
 TocOpen: true
 tags: ["楽天カード", "ポイント", "節約", "クレジットカード"]
@@ -115,5 +115,19 @@ cover:
   <span>
     <span class="related-card-label">新NISA入門</span>
     <span class="related-card-title">新NISAの始め方を楽天証券で解説【20代初心者向け・画像付き】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/rakuten-keizaiken-yameta/">
+  <span>
+    <span class="related-card-label">楽天経済圏</span>
+    <span class="related-card-title">楽天経済圏をやめた理由3つと、それでも続けている私の結論【正直レビュー】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/poikatsu-guide/">
+  <span>
+    <span class="related-card-label">ポイ活ガイド</span>
+    <span class="related-card-title">ポイ活完全ガイド【20代初心者が月1万円を無理なく稼ぐ始め方と全手順】</span>
   </span>
 </a>

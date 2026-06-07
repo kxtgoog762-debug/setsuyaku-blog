@@ -228,3 +228,17 @@ cover:
     <span class="related-card-title">楽天カードで年間3万円分のポイントを貯める方法【節約家必見】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/hitori-gurashi-konetsuhi/">
+  <span>
+    <span class="related-card-label">光熱費の実額</span>
+    <span class="related-card-title">一人暮らしの光熱費の平均と実額公開【28歳・都内在住の月別データ】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/subscription-minaoshi/">
+  <span>
+    <span class="related-card-label">サブスク見直し</span>
+    <span class="related-card-title">払いすぎているサブスクを見直して月1万円節約した話【解約した6つと残した理由】</span>
+  </span>
+</a>
