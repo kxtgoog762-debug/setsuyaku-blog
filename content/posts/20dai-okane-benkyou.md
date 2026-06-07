@@ -169,3 +169,10 @@ cover:
     <span class="related-card-title">20代が手取りを増やす3つの方法【昇給・転職・副業を実体験で比較】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/okane-benkyou-shinakatta-koukai/">
+  <span>
+    <span class="related-card-label">お金の勉強後悔</span>
+    <span class="related-card-title">お金の勉強を20代でしなかった後悔【5年間で失った200万円の計算】</span>
+  </span>
+</a>
