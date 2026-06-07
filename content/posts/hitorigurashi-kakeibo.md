@@ -164,7 +164,7 @@ cover:
 <a class="related-card" href="/posts/moneyforward-tsukaikata/">
   <span>
     <span class="related-card-label">家計管理</span>
-    <span class="related-card-title">マネーフォワードMEの使い方【無料版で家計管理を自動化する方法】</span>
+    <span class="related-card-title">マネーフォワードMEの使い方と活用法【28歳が月2万円の無駄をなくした方法】</span>
   </span>
 </a>
 
@@ -191,7 +191,7 @@ cover:
 <a class="related-card" href="/posts/moneyforward-tsukaikata/">
   <span>
     <span class="related-card-label">家計管理</span>
-    <span class="related-card-title">マネーフォワードMEの使い方【無料版で家計管理を自動化する方法】</span>
+    <span class="related-card-title">マネーフォワードMEの使い方と活用法【28歳が月2万円の無駄をなくした方法】</span>
   </span>
 </a>
 
@@ -206,5 +206,19 @@ cover:
   <span>
     <span class="related-card-label">実績公開</span>
     <span class="related-card-title">新NISA1年経過、20代会社員の含み損益を全公開【年収500万・一人暮らし男のリアル】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/shakaijin-3nen-chokin-zero/">
+  <span>
+    <span class="related-card-label">失敗談</span>
+    <span class="related-card-title">社会人3年目で貯金ゼロだった私の失敗記録【28歳が振り返る3つのやらかし】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/tedori-20man-kakei-haibun/">
+  <span>
+    <span class="related-card-label">家計配分</span>
+    <span class="related-card-title">手取り20万円の理想的な家計配分【20代一人暮らしの黄金比と実例公開】</span>
   </span>
 </a>
