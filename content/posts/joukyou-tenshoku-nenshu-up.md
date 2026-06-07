@@ -209,3 +209,10 @@ cover:
     <span class="related-card-title">新NISA1年経過、20代会社員の含み損益を全公開【年収500万・一人暮らし男のリアル】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/tenshoku-agent-tsukawanakatta-koukai/">
+  <span>
+    <span class="related-card-label">転職の失敗</span>
+    <span class="related-card-title">転職エージェントを使わずに転職して後悔した話【年収100万円の損失になった理由】</span>
+  </span>
+</a>
