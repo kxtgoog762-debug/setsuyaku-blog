@@ -225,7 +225,7 @@ cover:
 <a class="related-card" href="/posts/rakuten-card-point/">
   <span>
     <span class="related-card-label">ポイント活用</span>
-    <span class="related-card-title">楽天カードで年間3万円分のポイントを貯める方法【節約家必見】</span>
+    <span class="related-card-title">楽天カードのポイントを効率よく貯める方法【20代一人暮らしの実例】</span>
   </span>
 </a>
 
