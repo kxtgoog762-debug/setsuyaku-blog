@@ -203,3 +203,10 @@ cover:
     <span class="related-card-title">節約完全ガイド【20代一人暮らしが月3万円貯めるための全手順】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/shinsotsu-bonus-zenbu-travel-koukai/">
+  <span>
+    <span class="related-card-label">新卒ボーナス後悔</span>
+    <span class="related-card-title">新卒1年目のボーナスを全額旅行に使った後悔【22歳が28歳で計算した機会損失】</span>
+  </span>
+</a>
