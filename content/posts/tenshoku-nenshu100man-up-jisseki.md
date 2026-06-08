@@ -181,3 +181,10 @@ cover:
     <span class="related-card-title">お金の勉強を20代でしなかった後悔【5年間で失った200万円の計算】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/chihou-tokyo-tenshoku-seikatsuhi/">
+  <span>
+    <span class="related-card-label">地方→東京転職</span>
+    <span class="related-card-title">地方から東京に転職した生活費の変化【年収50万増でも手元に残るお金が変わらなかった話】</span>
+  </span>
+</a>
