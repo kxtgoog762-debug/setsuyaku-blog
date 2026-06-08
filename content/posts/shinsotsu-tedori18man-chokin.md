@@ -184,3 +184,10 @@ cover:
     <span class="related-card-title">20代会社員の交際費、年100万円使ってた私が月2万円に抑えた話【飲み会の断り方】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/tedori-15man-hitorigurashi/">
+  <span>
+    <span class="related-card-label">手取り15万円の生活</span>
+    <span class="related-card-title">手取り15万円で一人暮らしできる？東京で実際に生活した家計公開</span>
+  </span>
+</a>
