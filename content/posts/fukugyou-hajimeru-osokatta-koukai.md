@@ -200,3 +200,10 @@ cover:
     <span class="related-card-title">現状維持か転職か【28歳が年収100万円上げるまでにやった3つのこと】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/fukugyou-sagi-misesashimeta-koukai/">
+  <span>
+    <span class="related-card-label">副業詐欺後悔</span>
+    <span class="related-card-title">副業詐欺に騙されそうになった後悔【28歳が引っかかりかけた手口と見分け方】</span>
+  </span>
+</a>
