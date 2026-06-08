@@ -208,3 +208,10 @@ cover:
     <span class="related-card-title">iDeCoを25歳から始めなかった後悔【3年遅らせて損した節税額と運用益の計算】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/kobetsu-kabu-shippai-koukai/">
+  <span>
+    <span class="related-card-label">個別株失敗</span>
+    <span class="related-card-title">個別株で50万円を溶かした後悔【投資信託を知らずに始めた26歳の失敗記録】</span>
+  </span>
+</a>
