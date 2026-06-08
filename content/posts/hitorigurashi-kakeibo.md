@@ -222,3 +222,10 @@ cover:
     <span class="related-card-title">手取り20万円の理想的な家計配分【20代一人暮らしの黄金比と実例公開】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/nenshu400man-kakeibo-kokai/">
+  <span>
+    <span class="related-card-label">年収400万円家計</span>
+    <span class="related-card-title">年収400万円台・28歳会社員の毎月の家計を全公開【手取り27万円の配分と貯蓄率】</span>
+  </span>
+</a>
