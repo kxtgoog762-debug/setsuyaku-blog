@@ -214,3 +214,10 @@ cover:
     <span class="related-card-title">一人暮らしに最低いくら必要？手取り別の生活費シミュレーション【20代向け】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/hikkoshi-shoki-hiyou-koukai/">
+  <span>
+    <span class="related-card-label">初期費用後悔</span>
+    <span class="related-card-title">一人暮らしの初期費用で60万円払った後悔【新卒が知らなかった相場と交渉術】</span>
+  </span>
+</a>
