@@ -174,3 +174,10 @@ cover:
     <span class="related-card-title">節約初心者がまず見直すべき固定費5選【月3万円削減も可能】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/furusato-nozei-yaranakatta-koukai/">
+  <span>
+    <span class="related-card-label">ふるさと納税後悔</span>
+    <span class="related-card-title">ふるさと納税を3年間やらなかった後悔【6万円以上の損失を計算したら後悔しかなかった】</span>
+  </span>
+</a>
