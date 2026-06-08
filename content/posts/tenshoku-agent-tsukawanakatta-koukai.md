@@ -213,3 +213,10 @@ cover:
     <span class="related-card-title">節約完全ガイド【20代一人暮らしが月3万円貯めるための全手順】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/tenshoku-nenshu100man-up-jisseki/">
+  <span>
+    <span class="related-card-label">転職年収100万アップ</span>
+    <span class="related-card-title">転職で年収100万円アップした実録【27歳・社会人5年目が1回の転職で変えた話】</span>
+  </span>
+</a>
