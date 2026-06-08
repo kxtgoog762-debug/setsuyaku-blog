@@ -217,3 +217,10 @@ Netflix・Spotify・Amazon Prime…全部使っていますか？見直すだけ
     <span class="related-card-title">一人暮らしの食費を月2万円に抑えるコツ【28歳・都内のリアルな実例】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/nenshu350man-chokin200man/">
+  <span>
+    <span class="related-card-label">年収350万円の貯金</span>
+    <span class="related-card-title">年収350万円・27歳でも貯金200万円を突破した方法【手取り23万円からの逆転】</span>
+  </span>
+</a>
