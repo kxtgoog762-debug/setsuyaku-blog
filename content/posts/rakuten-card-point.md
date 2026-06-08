@@ -158,3 +158,10 @@ cover:
     <span class="related-card-title">ポイ活完全ガイド【20代初心者が月1万円を無理なく稼ぐ始め方と全手順】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/rakuten-keizaiken-point-nenkan5man/">
+  <span>
+    <span class="related-card-label">楽天経済圏</span>
+    <span class="related-card-title">楽天経済圏でポイントを年間5.2万円分貯めた方法【28歳・一人暮らしの実例公開】</span>
+  </span>
+</a>
