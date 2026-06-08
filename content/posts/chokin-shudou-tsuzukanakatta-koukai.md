@@ -175,3 +175,10 @@ cover:
     <span class="related-card-title">28歳・貯金100万円以下で30代を迎えそうだった私が本気で変わった話</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/chokin-300man-tassei-kyoutsuten/">
+  <span>
+    <span class="related-card-label">300万円達成の共通点</span>
+    <span class="related-card-title">20代で貯金300万円を達成した人の共通点5つ【収入ではなく習慣が決める】</span>
+  </span>
+</a>
