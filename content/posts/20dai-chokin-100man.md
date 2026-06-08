@@ -178,3 +178,10 @@ cover:
     <span class="related-card-title">28歳・貯金100万円以下で30代を迎えそうだった私が本気で変わった話</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/chokin-shudou-tsuzukanakatta-koukai/">
+  <span>
+    <span class="related-card-label">先取り自動化</span>
+    <span class="related-card-title">手動で貯金を続けようとして失敗した後悔【自動化したら年間120万円貯まった話】</span>
+  </span>
+</a>
