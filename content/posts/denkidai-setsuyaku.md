@@ -242,3 +242,10 @@ cover:
     <span class="related-card-title">払いすぎているサブスクを見直して月1万円節約した話【解約した6つと残した理由】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/denki-kaisha-kaenakatta-koukai/">
+  <span>
+    <span class="related-card-label">電力会社後悔</span>
+    <span class="related-card-title">電力会社を4年間変えなかった後悔【乗り換えたら年間2.4万円安くなった話】</span>
+  </span>
+</a>
