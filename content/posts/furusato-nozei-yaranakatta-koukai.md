@@ -150,3 +150,10 @@ cover:
     <span class="related-card-title">28歳・貯金100万円以下で30代を迎えそうだった私が本気で変わった話</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/setsuzei-nanimo-shinakatta-koukai/">
+  <span>
+    <span class="related-card-label">節税後悔</span>
+    <span class="related-card-title">節税を何もしていなかった後悔【会社員でもできる節税5選・年間16万円の差】</span>
+  </span>
+</a>
