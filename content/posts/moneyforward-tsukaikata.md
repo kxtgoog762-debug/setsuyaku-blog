@@ -155,3 +155,10 @@ App Store・Google Playから無料でダウンロードできます。
     <span class="related-card-title">固定費見直しチェックシート15項目【20代一人暮らしが月3万円削減した手順】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/28sai-dokushin-tokyo-nenkan-seikatsuhi/">
+  <span>
+    <span class="related-card-label">年間支出公開</span>
+    <span class="related-card-title">28歳・独身・東京一人暮らしの年間支出を全公開【月の支出と1年間の合計実績】</span>
+  </span>
+</a>
