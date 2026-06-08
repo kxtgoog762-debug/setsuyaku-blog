@@ -201,3 +201,10 @@ cover:
     <span class="related-card-title">20代の投資完全ガイド【新NISAの始め方から失敗回避まで全網羅】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/ideco-osokatta-koukai/">
+  <span>
+    <span class="related-card-label">iDeCo後悔</span>
+    <span class="related-card-title">iDeCoを25歳から始めなかった後悔【3年遅らせて損した節税額と運用益の計算】</span>
+  </span>
+</a>
