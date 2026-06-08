@@ -228,3 +228,10 @@ cover:
     <span class="related-card-title">28歳・貯金100万円以下で30代を迎えそうだった私が本気で変わった話</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/nenshu500man-tokyo-hitorigurashi/">
+  <span>
+    <span class="related-card-label">年収500万円家計</span>
+    <span class="related-card-title">年収500万円・29歳・東京一人暮らしの家計を全公開【手取り32万円で貯蓄率40%】</span>
+  </span>
+</a>
