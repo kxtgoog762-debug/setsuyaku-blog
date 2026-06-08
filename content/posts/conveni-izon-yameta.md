@@ -162,3 +162,10 @@ cover:
     <span class="related-card-title">節約初心者がまず見直すべき固定費5選【月3万円削減も可能】</span>
   </span>
 </a>
+
+<a class="related-card" href="/posts/gaishoku-shokuhi-takai-koukai/">
+  <span>
+    <span class="related-card-label">食費後悔</span>
+    <span class="related-card-title">外食ばかりで食費が月6万円になっていた後悔【年間72万円を食い潰してた】</span>
+  </span>
+</a>
