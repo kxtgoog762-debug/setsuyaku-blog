@@ -127,6 +127,49 @@ cover:
   </span>
 </a>
 
+## 7. 先輩たちの「投資の後悔」から先に学ぶ
+
+投資は「やらかす前に失敗例を知っておく」だけで、大きな損を避けられます。先に読んでおきたい後悔の実体験です。
+
+<a class="related-card" href="/posts/nisa-hajimenakata-koukai/">
+  <span>
+    <span class="related-card-label">先延ばし後悔</span>
+    <span class="related-card-title">新NISAを1年遅らせた後悔【気づいた機会損失は約18万円だった】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/kobetsu-kabu-shippai-koukai/">
+  <span>
+    <span class="related-card-label">個別株失敗</span>
+    <span class="related-card-title">個別株で50万円を溶かした後悔【投資信託を知らずに始めた26歳の失敗記録】</span>
+  </span>
+</a>
+
+<a class="related-card" href="/posts/ideco-osokatta-koukai/">
+  <span>
+    <span class="related-card-label">iDeCo後悔</span>
+    <span class="related-card-title">iDeCoを25歳から始めなかった後悔【3年遅らせて損した節税額と運用益の計算】</span>
+  </span>
+</a>
+
+## 20代の投資 よくある質問（FAQ）
+
+**Q. 投資はいくらから始められますか？**
+
+A. 月100〜1,000円から始められます。証券会社によっては100円から積立可能です。最初は金額より「始めて続ける習慣」が大切なので、無理のない少額からでまったく問題ありません。
+
+**Q. 新NISAで何を買えばいいですか？**
+
+A. 初心者は「eMAXIS Slim全世界株式（オルカン）」または「eMAXIS Slim米国株式（S&P500）」の1本でOKです。低コストで分散が効いており、20代の長期積立に最も適した王道の選択肢です。
+
+**Q. 投資が怖いです。元本割れしませんか？**
+
+A. 短期では元本割れもあり得ますが、全世界株式への20〜30年の積立では、過去の歴史上どの時点から始めてもプラスに転じています。「下がっても売らず続ける」ことがリスクを抑える最大のコツです。
+
+**Q. 貯金がまだ少ないのですが投資して大丈夫ですか？**
+
+A. まず生活防衛資金（生活費3〜6ヶ月分）を現金で確保してから投資を始めるのが安全です。それ未満なら、まずは少額の積立と並行して貯金を優先しましょう。
+
 ## まとめ：20代の投資、最初の3ステップ
 
 <div class="summary-box">
