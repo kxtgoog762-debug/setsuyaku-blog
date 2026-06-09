@@ -142,7 +142,25 @@ cover:
 
 月1,000円から始められます。「始めた」という事実が大切です。
 
-<a href="https://hb.afl.rakuten.co.jp/hsc/1a2b3c.4d5e6f.7g8h9i.0j1k2l/" class="aff-btn aff-btn-primary" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">楽天証券でNISA口座を開設する</span><span class="aff-btn-sub">無料・最短翌営業日に審査完了</span></a>
+<a href="https://www.rakuten-sec.co.jp/web/account/open/" class="aff-btn aff-btn-primary" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">楽天証券でNISA口座を開設する</span><span class="aff-btn-sub">無料・最短翌営業日に審査完了</span></a>
+
+## 新NISA よくある質問（FAQ）
+
+**Q. 新NISAは今から始めても遅いですか？**
+
+A. 遅くありません。投資は「始めた時点から複利が働く」ため、1日でも早い方が有利です。過去を悔やむより、今日始める方が将来の自分にとって最善です。10年・20年単位で続ける前提なら、今が一番若い＝最速のスタート地点です。
+
+**Q. オルカンとS&P500、どちらを選べばいいですか？**
+
+A. どちらも長期実績のある優良インデックスです。迷うなら「全世界に分散するオルカン（eMAXIS Slim全世界株式）」が無難。米国の成長に集中したいならS&P500。初心者は1本に絞ってOKで、両方を少しずつでも構いません。最も避けたいのは「迷って始めないこと」です。
+
+**Q. 月いくらから始めるべきですか？**
+
+A. 月1,000円からで構いません。大切なのは金額より「始めて続ける習慣」です。慣れてきたら手取りの10〜20%を目安に増額します。最初から無理な金額にすると相場下落時に怖くなって止めやすいので、小さく始めるのが正解です。
+
+**Q. 相場が下がったらどうすればいいですか？**
+
+A. 何もしない（積立を止めない）が正解です。下落時はむしろ安く買えるチャンス。長期の積立投資は「下がっても売らず、淡々と買い続ける」ことで平均取得単価が下がり、回復時のリターンが大きくなります。
 
 ## まとめ
 
