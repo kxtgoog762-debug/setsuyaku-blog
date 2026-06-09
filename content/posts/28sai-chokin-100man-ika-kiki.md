@@ -206,6 +206,13 @@ A. まず生活防衛資金（生活費3〜6ヶ月分）を現金で貯め、そ
   </span>
 </a>
 
+<a class="related-card" href="/posts/20dai-kouhan-chokin-chusochi/">
+  <span>
+    <span class="related-card-label">貯金の中央値</span>
+    <span class="related-card-title">20代後半の貯金の中央値はいくら？平均との差と現実的な目標額【2025年版】</span>
+  </span>
+</a>
+
 <a class="related-card" href="/posts/shakaijin-3nen-chokin-zero/">
   <span>
     <span class="related-card-label">貯金の失敗</span>
