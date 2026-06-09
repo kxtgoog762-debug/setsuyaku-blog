@@ -182,7 +182,7 @@ cover:
 <a class="related-card" href="/posts/joukyou-tenshoku-nenshu-up/">
   <span>
     <span class="related-card-label">転職で年収アップ</span>
-    <span class="related-card-title">現状維持か転職か【28歳が年収100万円上げるまでにやった3つのこと】</span>
+    <span class="related-card-title">地方Fラン卒が27歳で上京転職して年収1.5倍にした話【20代男のリアル体験】</span>
   </span>
 </a>
 

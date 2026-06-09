@@ -146,7 +146,7 @@ cover:
 <a class="related-card" href="/posts/bonus-zenbu-tsukaikiru-koukai/">
   <span>
     <span class="related-card-label">ボーナス全額使い切り後悔</span>
-    <span class="related-card-title">ボーナスを毎年全額使い切っていた後悔【7年間で失った機会損失の計算】</span>
+    <span class="related-card-title">ボーナスを全部使い切る生活を3年続けた後悔【28歳・毎年繰り返した失敗の記録】</span>
   </span>
 </a>
 

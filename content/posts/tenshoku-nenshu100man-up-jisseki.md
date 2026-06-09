@@ -150,7 +150,7 @@ cover:
 <a class="related-card" href="/posts/tenshoku-agent-tsukawanakatta-koukai/">
   <span>
     <span class="related-card-label">転職エージェント後悔</span>
-    <span class="related-card-title">転職エージェントを使わなかった後悔【年収50万円の差がついた話】</span>
+    <span class="related-card-title">転職エージェントを使わずに転職して後悔した話【年収100万円の損失になった理由】</span>
   </span>
 </a>
 

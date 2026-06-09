@@ -145,13 +145,13 @@ cover:
 <div class="experience-box">
 後悔談も読んでおくといい
 
-奨学金を繰り上げ返済したせいで投資開始が遅れ、後悔した実体験を書いた記事もあります。「どちらが正解か」の判断材料にしてください。
+逆に、奨学金を繰り上げ返済せず利息を払い続けて後悔した実体験を書いた記事もあります。「どちらが正解か」の判断材料にしてください。
 </div>
 
 <a class="related-card" href="/posts/shougakukin-kuriagehennsai-koukai/">
   <span>
     <span class="related-card-label">後悔談</span>
-    <span class="related-card-title">奨学金を繰り上げ返済した後悔【その200万円をNISAに入れていたら】</span>
+    <span class="related-card-title">奨学金を繰り上げ返済しなかった後悔【28歳・利息で30万円を無駄にした話】</span>
   </span>
 </a>
 
