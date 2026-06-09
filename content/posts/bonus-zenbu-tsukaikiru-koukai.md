@@ -197,7 +197,7 @@ cover:
   </span>
 </a>
 
-<a class="related-card" href="/posts/setsuyaku-kanzen-guide/">
+<a class="related-card" href="/posts/20dai-hitorigurashi-setsuyaku-guide/">
   <span>
     <span class="related-card-label">節約ガイド</span>
     <span class="related-card-title">節約完全ガイド【20代一人暮らしが月3万円貯めるための全手順】</span>
