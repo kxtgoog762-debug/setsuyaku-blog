@@ -747,6 +747,51 @@ body {
   border-bottom: 1px solid #e0e0e0;
 }
 
+/* --- Markdownテーブル（記事内の通常の表）--- */
+.post-content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  margin: 24px 0;
+  font-size: 0.92rem;
+}
+
+.post-content table thead th {
+  background: #2e8b57;
+  color: #fff;
+  font-weight: 700;
+  padding: 10px 12px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.post-content table tbody th,
+.post-content table tbody td {
+  padding: 10px 12px;
+  border: 1px solid #dce8dc;
+  background: #fff;
+  vertical-align: top;
+}
+
+.post-content table tbody tr:nth-child(even) td,
+.post-content table tbody tr:nth-child(even) th {
+  background: #f6faf6;
+}
+
+/* --- 長文・URLの折り返し（スマホはみ出し防止） --- */
+.post-content {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* --- レスポンシブ対応 --- */
 @media (max-width: 600px) {
   body {
@@ -760,8 +805,84 @@ body {
   }
   .post-content h2 {
     font-size: 1.1rem;
+    padding: 8px 12px;
+    margin-top: 36px;
+  }
+  .post-content h3 {
+    font-size: 1.02rem;
   }
   .related-card {
     padding: 10px 12px;
+    gap: 10px;
+  }
+  .related-card-title {
+    font-size: 0.88rem;
+  }
+
+  /* テーブルはスマホで少しコンパクトに */
+  .post-content table {
+    font-size: 0.84rem;
+  }
+  .post-content table thead th,
+  .post-content table tbody th,
+  .post-content table tbody td {
+    padding: 8px 9px;
+  }
+
+  /* 会話（チャット）をスマホで最適化 */
+  .chat {
+    gap: 8px;
+    margin: 14px 0;
+  }
+  .chat-avatar,
+  .chat-avatar-wrap {
+    flex: 0 0 48px;
+    width: 48px;
+  }
+  .chat-avatar {
+    height: 48px;
+  }
+  .chat-name {
+    font-size: 0.62em;
+  }
+  .chat-bubble {
+    max-width: calc(100% - 60px);
+    padding: 10px 12px;
+    font-size: 0.9em;
+    line-height: 1.6;
+  }
+
+  /* 各種ボックスの余白をモバイル向けに */
+  .point-box,
+  .caution-box,
+  .experience-box {
+    padding: 13px 14px;
+    margin: 20px 0;
+  }
+  .summary-box {
+    padding: 16px 16px;
+    margin: 26px 0;
+  }
+  .toc {
+    padding: 12px 14px;
+  }
+
+  /* カバー画像をスマホでは少し低く */
+  .post-single .entry-cover,
+  .post-single .entry-cover img {
+    max-height: 200px;
+  }
+}
+
+/* さらに小さい画面（〜400px）への微調整 */
+@media (max-width: 400px) {
+  .post-content table {
+    font-size: 0.8rem;
+  }
+  .aff-btn-main {
+    font-size: 0.94rem;
+  }
+  .chat-bubble {
+    font-size: 0.87em;
   }
 }
