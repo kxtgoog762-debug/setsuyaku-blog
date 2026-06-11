@@ -145,6 +145,8 @@ cover:
 
 最も効くのは**新電力への切替**。一度手続きするだけで、毎月の電気代が自動的に下がり続けます。夏前に見直しておくのがおすすめです。
 
+<a href="https://energy.rakuten.co.jp/electricity/" class="aff-btn aff-btn-secondary" target="_blank" rel="nofollow noopener"><span class="aff-btn-main">楽天でんきの料金シミュレーションをする</span><span class="aff-btn-sub">夏本番前の見直しが効果大・切替費用0円</span></a>
+
 <a class="related-card" href="/posts/denkidai-setsuyaku/">
   <span>
     <span class="related-card-label">電気代節約</span>
