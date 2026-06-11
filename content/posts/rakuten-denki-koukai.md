@@ -153,7 +153,11 @@ cover:
 - 普通の使い方なら確実に安くなる
 - イマイチな点は、私の使い方では実害が小さかった
 
-Amazon派の人なら他社のほうが合うかもしれませんが、楽天を使っている人なら楽天でんきが鉄板です。電気代節約の詳しい全体像はこちらです。
+Amazon派の人なら他社のほうが合うかもしれませんが、楽天を使っている人なら楽天でんきが鉄板です。
+
+<a href="https://energy.rakuten.co.jp/electricity/" class="aff-btn aff-btn-secondary" target="_blank" rel="nofollow noopener"><span class="aff-btn-main">楽天でんきの料金シミュレーションをする</span><span class="aff-btn-sub">検針票の数字を入れるだけ・切替費用0円</span></a>
+
+電気代節約の詳しい全体像はこちらです。
 
 <a class="related-card" href="/posts/denkidai-setsuyaku/">
   <span>

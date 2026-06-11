@@ -102,6 +102,8 @@ cover:
 私のような「普通の使用量・普通の物件」なら、ほぼ確実に新電力のほうが安くなります。
 </div>
 
+<a href="https://energy.rakuten.co.jp/electricity/" class="aff-btn aff-btn-secondary" target="_blank" rel="nofollow noopener"><span class="aff-btn-main">楽天でんきの料金シミュレーションをする</span><span class="aff-btn-sub">検針票があれば3分・切替費用0円</span></a>
+
 ### ② エアコンの設定温度＋運転モード見直し：月400〜600円減
 
 電気代の**約30%はエアコン**です。ここを最適化すると効果が大きい。
