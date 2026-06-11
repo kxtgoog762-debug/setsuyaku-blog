@@ -201,6 +201,8 @@ A. ①自分の月のデータ使用量を確認 ②キャリアメールをGmai
 通信環境は人それぞれ。自分の使い方（お昼に何をするか、サポートが必要かなど）を踏まえて判断してください。私の場合は「乗り換えて正解」でした。
 </div>
 
+<a href="https://hb.afl.rakuten.co.jp/hsc/53757029.325cc968.536c0077.4c71edea/?link_type=pict&rafst=rmn" class="aff-btn aff-btn-accent" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">楽天モバイルの料金プランを見る</span><span class="aff-btn-sub">後悔込みでも乗り換えて正解・解約金なし</span></a>
+
 ---
 
 <p class="related-section-title">あわせて読みたい</p>
