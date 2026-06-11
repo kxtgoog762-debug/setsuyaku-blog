@@ -161,6 +161,14 @@ cover:
 
 → <a href="https://px.a8.net/svt/ejp?a8mat=4B1U9V+5O7P9U+1LP8+BWVTE" class="aff-btn aff-btn-secondary" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">ハピタスに無料登録する</span><span class="aff-btn-sub">登録完全無料・最短1分</span></a>
 
+{{< chat speaker="manabu" >}}
+ハピタスは「日常の買い物のついで」に強いんですね。じゃあモッピーはどういう人向けなんですか？
+{{< /chat >}}
+
+{{< chat speaker="yattokame" >}}
+モッピーは「ここぞの一撃」が強い。クレカ発行や口座開設みたいな高単価案件で、1件1万円超えを狙うならモッピー。性格の違いをこれから見せるね。
+{{< /chat >}}
+
 ## モッピーを選ぶべき人
 
 ### こんな人におすすめ
@@ -257,6 +265,14 @@ cover:
 
 両サイトとも登録は無料・1分で完了するので、最初に両方登録 → 案件ごとに使い分けるのが最も稼げる
 </div>
+
+{{< chat speaker="manabu" >}}
+3年で77,500円分…！特別なことをしていないのにこの金額はすごいですね。
+{{< /chat >}}
+
+{{< chat speaker="yattokame" >}}
+「どうせやる買い物・どうせ作るカード」を経由させただけだからね。ただし、ポイ活には落とし穴もある。最後に損しないためのルールを3つだけ伝えておくよ。
+{{< /chat >}}
 
 ## 注意点：ポイ活で損しないための3つのルール
 
