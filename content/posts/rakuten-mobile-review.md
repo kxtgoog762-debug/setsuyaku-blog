@@ -179,6 +179,8 @@ A. 楽天モバイルは契約事務手数料・解約金ともに0円です。M
 通信環境・エリアは人によって異なります。お住まいの地域の楽天回線エリアを事前に確認のうえ、判断してください。
 </div>
 
+<a href="https://hb.afl.rakuten.co.jp/hsc/53757029.325cc968.536c0077.4c71edea/?link_type=pict&rafst=rmn" class="aff-btn aff-btn-accent" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">楽天モバイルの料金プランを見る</span><span class="aff-btn-sub">3GBまで1,078円・契約事務手数料0円・解約金なし</span></a>
+
 ---
 
 <p class="related-section-title">あわせて読みたい</p>
