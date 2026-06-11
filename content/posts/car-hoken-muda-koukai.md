@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["自動車保険", "節約", "保険", "後悔", "固定費"]
 cover:
-  image: /images/hoken.png
+  image: /images/koteihi.png
   alt: "保険のイラスト"
   caption: "出典：いらすとや"
   relative: false

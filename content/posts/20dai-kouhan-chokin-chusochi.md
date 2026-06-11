@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["貯金", "20代", "平均", "中央値", "家計"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "貯金・貯蓄のイラスト"
   caption: "出典：いらすとや"
   relative: false

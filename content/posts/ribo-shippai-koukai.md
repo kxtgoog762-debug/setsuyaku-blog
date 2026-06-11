@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["クレジットカード", "リボ払い", "失敗談", "後悔", "借金"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "クレジットカードの失敗のイラスト"
   caption: "出典：いらすとや"
   relative: false

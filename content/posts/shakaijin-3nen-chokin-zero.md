@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["貯金", "失敗談", "社会人", "20代", "後悔"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "お金の後悔のイラスト"
   caption: "出典：いらすとや"
   relative: false

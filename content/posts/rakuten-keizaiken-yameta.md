@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["楽天経済圏", "節約", "20代", "ポイント", "正直レビュー"]
 cover:
-  image: /images/rakuten.png
+  image: /images/rakuten-card.png
   alt: "楽天経済圏を比較するイラスト"
   caption: "出典：いらすとや"
   relative: false

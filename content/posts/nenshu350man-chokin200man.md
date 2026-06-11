@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["貯金", "年収350万", "27歳", "一人暮らし", "節約"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "貯金を達成した人のイラスト"
   caption: "出典：いらすとや"
   relative: false

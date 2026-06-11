@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["クレジットカード", "借金", "後悔", "節約", "一人暮らし"]
 cover:
-  image: /images/setsuyaku.png
+  image: /images/shokuhi.png
   alt: "クレジットカードのイラスト"
   caption: "出典：いらすとや"
   relative: false

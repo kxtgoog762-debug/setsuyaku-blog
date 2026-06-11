@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["転職", "年収アップ", "27歳", "実録", "キャリア"]
 cover:
-  image: /images/tenshoku.png
+  image: /images/koteihi.png
   alt: "転職のイラスト"
   caption: "出典：いらすとや"
   relative: false

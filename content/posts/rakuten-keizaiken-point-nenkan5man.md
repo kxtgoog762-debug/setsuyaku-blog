@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["楽天経済圏", "ポイント", "節約", "一人暮らし", "楽天"]
 cover:
-  image: /images/rakuten.png
+  image: /images/rakuten-card.png
   alt: "楽天ポイントのイラスト"
   caption: "出典：いらすとや"
   relative: false

@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["貯金", "先取り貯金", "自動化", "後悔", "節約"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "貯金箱のイラスト"
   caption: "出典：いらすとや"
   relative: false

@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["一人暮らし", "手取り", "生活費", "節約", "20代"]
 cover:
-  image: /images/kakeibo.png
+  image: /images/moneyforward.png
   alt: "家計簿のイラスト"
   caption: "出典：いらすとや"
   relative: false

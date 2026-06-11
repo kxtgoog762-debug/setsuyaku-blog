@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["ボーナス", "失敗談", "20代", "後悔", "貯金"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "ボーナスの使い方のイラスト"
   caption: "出典：いらすとや"
   relative: false

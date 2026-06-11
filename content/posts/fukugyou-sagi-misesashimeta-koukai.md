@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["副業", "詐欺", "後悔", "注意", "稼ぎ方"]
 cover:
-  image: /images/fukugyou.png
+  image: /images/poikatsu.png
   alt: "副業のイラスト"
   caption: "出典：いらすとや"
   relative: false

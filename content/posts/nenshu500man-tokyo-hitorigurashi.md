@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["家計公開", "年収500万", "29歳", "東京", "一人暮らし"]
 cover:
-  image: /images/kakeibo.png
+  image: /images/moneyforward.png
   alt: "家計簿のイラスト"
   caption: "出典：いらすとや"
   relative: false

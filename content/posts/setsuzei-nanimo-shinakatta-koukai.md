@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["節税", "後悔", "会社員", "ふるさと納税", "iDeCo"]
 cover:
-  image: /images/setsuyaku.png
+  image: /images/shokuhi.png
   alt: "節税のイラスト"
   caption: "出典：いらすとや"
   relative: false

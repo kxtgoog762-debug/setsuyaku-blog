@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["転職", "東京", "地方", "生活費", "年収"]
 cover:
-  image: /images/setsuyaku.png
+  image: /images/shokuhi.png
   alt: "引越しのイラスト"
   caption: "出典：いらすとや"
   relative: false

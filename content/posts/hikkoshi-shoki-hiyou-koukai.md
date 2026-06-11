@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["一人暮らし", "引越し", "初期費用", "後悔", "節約"]
 cover:
-  image: /images/chintai.png
+  image: /images/koteihi.png
   alt: "引越しのイラスト"
   caption: "出典：いらすとや"
   relative: false

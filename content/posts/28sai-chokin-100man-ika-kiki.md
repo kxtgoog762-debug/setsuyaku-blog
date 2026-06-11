@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["貯金", "28歳", "30代", "危機感", "資産形成"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "貯金を始めた人のイラスト"
   caption: "出典：いらすとや"
   relative: false

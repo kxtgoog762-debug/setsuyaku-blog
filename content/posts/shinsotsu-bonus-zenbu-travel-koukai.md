@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["ボーナス", "旅行", "後悔", "資産形成", "新卒"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "ボーナスのイラスト"
   caption: "出典：いらすとや"
   relative: false

@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["残業代", "生活費", "後悔", "節約", "家計"]
 cover:
-  image: /images/setsuyaku.png
+  image: /images/shokuhi.png
   alt: "仕事をする人のイラスト"
   caption: "出典：いらすとや"
   relative: false

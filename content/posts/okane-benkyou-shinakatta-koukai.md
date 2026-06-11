@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["お金の勉強", "後悔", "20代", "失敗談", "金融リテラシー"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "お金の勉強のイラスト"
   caption: "出典：いらすとや"
   relative: false

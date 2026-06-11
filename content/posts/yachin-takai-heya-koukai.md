@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["家賃", "一人暮らし", "失敗談", "後悔", "固定費"]
 cover:
-  image: /images/chintai.png
+  image: /images/koteihi.png
   alt: "一人暮らしの部屋のイラスト"
   caption: "出典：いらすとや"
   relative: false

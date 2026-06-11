@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["iDeCo", "節税", "後悔", "資産形成", "20代"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "投資をする人のイラスト"
   caption: "出典：いらすとや"
   relative: false

@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["食費", "外食", "節約", "後悔", "一人暮らし"]
 cover:
-  image: /images/setsuyaku.png
+  image: /images/shokuhi.png
   alt: "食事をする人のイラスト"
   caption: "出典：いらすとや"
   relative: false

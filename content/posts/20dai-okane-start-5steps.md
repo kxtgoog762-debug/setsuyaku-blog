@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["節約", "貯金", "投資", "20代", "完全ガイド"]
 cover:
-  image: /images/setsuyaku.png
+  image: /images/shokuhi.png
   alt: "お金の管理をする人のイラスト"
   caption: "出典：いらすとや"
   relative: false

@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["格安SIM", "節約", "通信費", "後悔", "固定費"]
 cover:
-  image: /images/kakuyasu.png
+  image: /images/kakuyasu-sim.png
   alt: "スマートフォンのイラスト"
   caption: "出典：いらすとや"
   relative: false

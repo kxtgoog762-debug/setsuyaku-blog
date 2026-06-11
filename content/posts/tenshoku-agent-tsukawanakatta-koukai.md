@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["転職", "失敗談", "年収アップ", "20代", "後悔"]
 cover:
-  image: /images/tenshoku.png
+  image: /images/koteihi.png
   alt: "転職活動のイラスト"
   caption: "出典：いらすとや"
   relative: false

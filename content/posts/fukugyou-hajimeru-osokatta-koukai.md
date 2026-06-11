@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["副業", "後悔", "20代", "失敗談", "収入アップ"]
 cover:
-  image: /images/fukugyou.png
+  image: /images/poikatsu.png
   alt: "副業をする人のイラスト"
   caption: "出典：いらすとや"
   relative: false

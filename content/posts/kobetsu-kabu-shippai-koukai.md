@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["投資", "個別株", "後悔", "失敗", "NISA"]
 cover:
-  image: /images/touishi.png
+  image: /images/rakuten-card.png
   alt: "投資のイラスト"
   caption: "出典：いらすとや"
   relative: false

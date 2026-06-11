@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["家計公開", "年収400万", "28歳", "一人暮らし", "貯蓄率"]
 cover:
-  image: /images/kakeibo.png
+  image: /images/moneyforward.png
   alt: "家計簿のイラスト"
   caption: "出典：いらすとや"
   relative: false

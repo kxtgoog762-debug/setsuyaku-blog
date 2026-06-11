@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["手取り15万円", "一人暮らし", "節約", "生活費", "東京"]
 cover:
-  image: /images/setsuyaku.png
+  image: /images/shokuhi.png
   alt: "節約生活のイラスト"
   caption: "出典：いらすとや"
   relative: false

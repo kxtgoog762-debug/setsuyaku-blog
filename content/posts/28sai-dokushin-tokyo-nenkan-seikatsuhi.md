@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["生活費", "28歳", "東京", "一人暮らし", "年間支出"]
 cover:
-  image: /images/kakeibo.png
+  image: /images/moneyforward.png
   alt: "家計簿のイラスト"
   caption: "出典：いらすとや"
   relative: false

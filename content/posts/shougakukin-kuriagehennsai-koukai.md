@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["奨学金", "繰り上げ返済", "後悔", "節約", "20代"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "お金の計算をする人のイラスト"
   caption: "出典：いらすとや"
   relative: false

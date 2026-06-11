@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["新NISA", "後悔", "投資", "20代", "失敗談"]
 cover:
-  image: /images/nisa.png
+  image: /images/rakuten-card.png
   alt: "NISAを始める人のイラスト"
   caption: "出典：いらすとや"
   relative: false

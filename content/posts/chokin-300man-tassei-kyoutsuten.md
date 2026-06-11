@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 tags: ["貯金", "300万円", "20代", "資産形成", "習慣"]
 cover:
-  image: /images/chokin.png
+  image: /images/koteihi.png
   alt: "貯金を達成した人のイラスト"
   caption: "出典：いらすとや"
   relative: false
