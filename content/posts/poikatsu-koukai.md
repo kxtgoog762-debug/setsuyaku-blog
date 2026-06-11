@@ -142,6 +142,8 @@ cover:
 
 どちらも「手間が少なく、リターンが大きい」。チマチマ作業に消耗していた頃より、**労力は10分の1、リターンは数倍**になりました。
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1U9V+5O7P9U+1LP8+BWVTE" class="aff-btn aff-btn-secondary" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">ハピタスに無料登録する</span><span class="aff-btn-sub">消耗しない高額案件型ポイ活はここから・登録1分</span></a>
+
 具体的な月1万円ペースのポイ活の全体像はこちらです。
 
 <a class="related-card" href="/posts/poikatsu-tsukiichiman/">

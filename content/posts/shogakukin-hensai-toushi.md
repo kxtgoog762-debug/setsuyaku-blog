@@ -90,6 +90,8 @@ cover:
 
 生活防衛資金が貯まったら、新NISAで月1〜3万円の積立をスタート。少額でも「時間を味方につける」ことが20代の最大の武器です。
 
+<a href="https://www.rakuten-sec.co.jp/web/account/open/" class="aff-btn aff-btn-primary" target="_blank" rel="nofollow sponsored noopener"><span class="aff-btn-main">楽天証券でNISA口座を開設する</span><span class="aff-btn-sub">返済と並行の少額積立もOK・手数料0円</span></a>
+
 <a class="related-card" href="/posts/nisa-hajimekata-rakuten/">
   <span>
     <span class="related-card-label">新NISA入門</span>
