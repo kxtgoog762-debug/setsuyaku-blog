@@ -4,7 +4,7 @@ date: 2026-05-24
 description: "新NISAで20代がやりがちな失敗を5つ解説。旧つみたてNISAから3年投資してきた28歳の筆者が、自分や周りで見てきた「後悔パターン」と回避法を実体験で紹介します。"
 ShowToc: true
 TocOpen: true
-tags: ["新NISA", "資産運用", "20代", "失敗", "インデックス投資"]
+tags: ["新NISA", "資産運用", "20代", "失敗", "後悔", "インデックス投資"]
 cover:
   image: /images/koteihi.png
   alt: "投資で悩む人のイラスト"
