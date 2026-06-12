@@ -60,17 +60,21 @@ defaultTheme = "light"
     url = "/tags/節約/"
     weight = 3
   [[menu.main]]
-    name = "ポイ活・カード"
-    url = "/tags/ポイ活/"
+    name = "貯金・家計"
+    url = "/tags/貯金/"
     weight = 4
   [[menu.main]]
-    name = "家計管理"
-    url = "/tags/家計管理/"
+    name = "投資・NISA"
+    url = "/tags/新NISA/"
     weight = 5
+  [[menu.main]]
+    name = "失敗談・後悔"
+    url = "/tags/後悔/"
+    weight = 6
   [[menu.main]]
     name = "プロフィール"
     url = "/profile/"
-    weight = 6
+    weight = 7
 
   [[menu.footer]]
     name = "プライバシーポリシー・免責事項"
