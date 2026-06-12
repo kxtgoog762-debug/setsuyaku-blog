@@ -59,6 +59,13 @@ _build:
   </span>
 </a>
 
+<a class="related-card" href="/posts/20dai-okane-start-5steps/">
+  <span>
+    <span class="related-card-label">最初の5ステップ</span>
+    <span class="related-card-title">20代でお金の不安をなくすために最初にやること5つ【節約・貯金・投資の全手順】</span>
+  </span>
+</a>
+
 ## 管理人について
 
 詳しいプロフィール・経歴はこちらから：
