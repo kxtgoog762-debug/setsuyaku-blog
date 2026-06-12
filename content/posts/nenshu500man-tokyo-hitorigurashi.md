@@ -4,7 +4,7 @@ date: 2026-06-09
 description: "年収500万円・手取り32万円・29歳・都内一人暮らしのリアルな月の家計を全公開。固定費・変動費・新NISA・iDeCoの配分と貯蓄率40%を実現した方法を解説します。"
 ShowToc: true
 TocOpen: true
-tags: ["家計公開", "年収500万", "29歳", "東京", "一人暮らし"]
+tags: ["家計公開", "貯金", "年収500万", "29歳", "東京", "一人暮らし"]
 cover:
   image: /images/moneyforward.png
   alt: "家計簿のイラスト"
