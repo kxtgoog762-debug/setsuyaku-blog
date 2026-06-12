@@ -4,7 +4,7 @@ date: 2026-06-09
 description: "投資信託と個別株の違いを理解せずに個別株から始め、26歳で50万円を失った後悔談。損失を出した経緯と、インデックス投資に切り替えてからの変化を全部公開します。"
 ShowToc: true
 TocOpen: true
-tags: ["投資", "個別株", "後悔", "失敗", "NISA"]
+tags: ["投資", "個別株", "後悔", "失敗", "新NISA"]
 cover:
   image: /images/rakuten-card.png
   alt: "投資のイラスト"

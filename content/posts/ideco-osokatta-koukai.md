@@ -4,7 +4,7 @@ date: 2026-06-09
 description: "iDeCoを知っていながら28歳まで先延ばしにした後悔。25歳から始めていた場合と比較した節税額・運用益の差額を計算したら、60歳時点で約170万円の差が生まれる実態を公開します。"
 ShowToc: true
 TocOpen: true
-tags: ["iDeCo", "節税", "後悔", "資産形成", "20代"]
+tags: ["iDeCo", "新NISA", "節税", "後悔", "資産形成", "20代"]
 cover:
   image: /images/koteihi.png
   alt: "投資をする人のイラスト"
