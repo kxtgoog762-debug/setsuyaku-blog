@@ -2,6 +2,7 @@ baseURL = "https://yuru-setsuyaku.com/"
 title = "ゆる節約ライフ"
 languageCode = "ja"
 defaultTheme = "light"
+enableRobotsTXT = true
 
 [markup]
   [markup.goldmark]
