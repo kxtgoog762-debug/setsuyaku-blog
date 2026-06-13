@@ -171,6 +171,15 @@ A. 高額療養費制度で月の自己負担は約8〜9万円が上限、会社
 
 ---
 
+<p class="related-section-title">この記事を書いた人</p>
+
+<a class="related-card" href="/profile/">
+  <span>
+    <span class="related-card-label">運営者プロフィール</span>
+    <span class="related-card-title">やっとかめ｜28歳で資産2,000万円・宅建/FP3級保有。地方Fラン卒の会社員が実体験ベースで節約と新NISAを発信しています</span>
+  </span>
+</a>
+
 <p class="related-section-title">あわせて読みたい</p>
 
 <a class="related-card" href="/posts/koteihi-minaoshi/">
