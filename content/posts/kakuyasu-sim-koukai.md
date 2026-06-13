@@ -205,6 +205,15 @@ A. ①自分の月のデータ使用量を確認 ②キャリアメールをGmai
 
 ---
 
+<p class="related-section-title">この記事を書いた人</p>
+
+<a class="related-card" href="/profile/">
+  <span>
+    <span class="related-card-label">運営者プロフィール</span>
+    <span class="related-card-title">やっとかめ｜28歳で資産2,000万円・宅建/FP3級保有。地方Fラン卒の会社員が実体験ベースで節約と新NISAを発信しています</span>
+  </span>
+</a>
+
 <p class="related-section-title">あわせて読みたい</p>
 
 <a class="related-card" href="/posts/kakuyasu-sim-osusume/">
