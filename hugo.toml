@@ -43,6 +43,11 @@ enableRobotsTXT = true
   [params.analytics.google]
     SiteVerificationTag = "28pq5v3ziJSuspT90fUYBo7xj8zUythUM2Zmr2amMeY"
 
+  [[params.socialIcons]]
+    name = "x"
+    title = "X（旧Twitter）でフォロー"
+    url = "https://x.com/yuru_setsuyaku"
+
 [services]
   [services.googleAnalytics]
     ID = "G-JMT37ZQS9Y"
