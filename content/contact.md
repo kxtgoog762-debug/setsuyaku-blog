@@ -9,7 +9,9 @@ ShowShareButtons: false
 ShowPostNavLinks: false
 ---
 
-当ブログへのご意見・ご質問・掲載内容に関するお問い合わせは、以下のフォームよりお送りください。
+当ブログへのご意見・ご質問・掲載内容に関するお問い合わせは、X（旧Twitter）のダイレクトメッセージ（DM）より承っております。
+
+下のボタンから公式アカウントにアクセスし、DMをお送りください。お気軽にどうぞ。
 
 返信には数日かかる場合があります。あらかじめご了承ください。
 
@@ -17,22 +19,10 @@ ShowPostNavLinks: false
 
 <div class="contact-form-wrap">
 
-<form action="https://formspree.io/f/xyzgpqrk" method="POST">
-  <div class="form-group">
-    <label for="name">お名前（ニックネーム可）</label>
-    <input type="text" id="name" name="name" placeholder="例：節約太郎" required>
-  </div>
-  <div class="form-group">
-    <label for="email">メールアドレス</label>
-    <input type="email" id="email" name="email" placeholder="例：example@mail.com" required>
-  </div>
-  <div class="form-group">
-    <label for="message">お問い合わせ内容</label>
-    <textarea id="message" name="message" rows="6" placeholder="お気軽にどうぞ" required></textarea>
-  </div>
-  <button type="submit" class="contact-btn">送信する</button>
-</form>
+<a href="https://x.com/yuru_setsuyaku" class="contact-btn" target="_blank" rel="noopener noreferrer">X（@yuru_setsuyaku）でDMを送る</a>
 
 </div>
+
+X上部の「メッセージ」ボタン、またはプロフィールの封筒アイコンからDMをお送りいただけます。アカウントをお持ちでない場合は、まずXへの登録（無料）が必要です。
 
 > ※いただいた個人情報はお問い合わせへの返答にのみ使用します。詳しくは[プライバシーポリシー](/privacy-policy/)をご覧ください。

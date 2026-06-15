@@ -611,6 +611,7 @@ body {
 }
 
 .contact-btn {
+  display: inline-block;
   background: #2e8b57;
   color: #fff;
   border: none;
@@ -619,11 +620,14 @@ body {
   font-size: 1rem;
   font-weight: 700;
   cursor: pointer;
+  text-decoration: none;
+  text-align: center;
   transition: background 0.2s;
 }
 
 .contact-btn:hover {
   background: #1b5e20;
+  color: #fff;
 }
 
 /* --- ポイントボックス --- */
